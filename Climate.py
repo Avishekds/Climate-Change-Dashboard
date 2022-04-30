@@ -22,7 +22,7 @@ st.set_page_config(page_title = "Climate Change Dashboard",
 from streamlit_option_menu import option_menu
 
 with st.sidebar:
-    selected = option_menu("Main Menu", ["Home","About Us", "Countrywise temperature Change","Yearwise temperature scatter","Boxplot temperature Variation","Global Warming","Carbon dioxide emission boxplot", "Carbon dioxide emission worldwide", "Social Message"], 
+    selected = option_menu("Main Menu", ["Home","About Us", "Countrywise temperature Change","Yearwise temperature scatter","Boxplot temperature Variation","Global Warming", "Carbon dioxide emission worldwide", "Social Message"], 
         icons=['house', 'gear'], menu_icon="cast", default_index=0)
     selected
 st.markdown("The dashboard is designed is to increase the awareness of people about climate change")
@@ -66,9 +66,7 @@ if selected == 'Countrywise temperature Change':
 elif selected == 'Yearwise temperature scatter':
     fig = px.scatter(data, x="Year", y="temp_change",title="Overall scatter of temperature")
     fig.show()
-    engine = pyttsx3.init()
-    engine.say("This visualization shows the scatter of temperture change over the years")
-    engine.runAndWait()
+    
     
 elif selected == 'Boxplot temperature Variation':
     fig = px.box(data, x="Year",y="temp_change",hover_name="temp_change",title="Year-wise variation of temperature")
@@ -89,14 +87,6 @@ elif selected == 'Global Warming':
     ))
     fig.show()
     
-elif selected == 'Carbon dioxide emission boxplot':
-    data2= pd.read_csv("CO2_Emissions.csv")
-    data2.reset_index(level=0, inplace=True)
-    data3=data2.melt(id_vars=['Country Name'], var_name='Year').sort_values(by=['Year'])
-    country_col=data3[data3['Country Name']!='World'].groupby(by=['Country Name']).max().sort_values(by=['value'], ascending=False).head(10).index.to_list() 
-    country_col.extend(['India','China'])
-    fig = px.box(data_frame=data3[data3['Country Name'].isin(country_col)], x='value', y='Country Name', color='Country Name', title='Variation of Carbon dioxide emission by top 12 countries')
-    fig.show()
     
 elif selected == 'Carbon dioxide emission worldwide':
     data2= pd.read_csv("CO2_Emissions.csv")
