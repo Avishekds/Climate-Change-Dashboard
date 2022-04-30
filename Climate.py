@@ -87,7 +87,7 @@ elif selected == 'Global Warming':
     ))
     fig.show()
     
-elif selected == 'Carbon dioide emission boxplot':
+elif selected == 'Carbon dioxide emission boxplot':
     data2= pd.read_csv("CO2_Emissions.csv")
     data2.reset_index(level=0, inplace=True)
     data3=data2.melt(id_vars=['Country Name'], var_name='Year').sort_values(by=['Year'])
