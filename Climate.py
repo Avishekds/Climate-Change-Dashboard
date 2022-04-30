@@ -66,7 +66,9 @@ if selected == 'Countrywise temperature Change':
 elif selected == 'Yearwise temperature scatter':
     fig = px.scatter(data, x="Year", y="temp_change",title="Overall scatter of temperature")
     fig.show()
-    fig.show()
+    engine = pyttsx3.init()
+    engine.say("This visualization shows the scatter of temperture change over the years")
+    engine.runAndWait()
     
 elif selected == 'Boxplot temperature Variation':
     fig = px.box(data, x="Year",y="temp_change",hover_name="temp_change",title="Year-wise variation of temperature")
