@@ -27,7 +27,7 @@ with st.sidebar:
     selected
 st.markdown("The dashboard is designed is to increase the awareness of people about climate change")
   
-data =  pd.read_csv("C:/Users/AVISHEK/Documents/Final_Data.csv")
+data =  pd.read_csv("Final_Data.csv")
 if selected == 'Home':
     from PIL import Image
     import base64
@@ -85,7 +85,7 @@ elif selected == 'Boxplot temperature Variation':
     engine.say("This boxplot visualization shows the variation of temperture change over the years along its mean value")
     engine.runAndWait()
 elif selected == 'Global Warming':
-    data1 = pd.read_csv("C:/Users/AVISHEK/Documents/city_climate.csv")
+    data1 = pd.read_csv("city_climate.csv")
     fig = px.choropleth(data1, locations="iso3",
                     color="Global Warming",
                     hover_name="City",
@@ -102,7 +102,7 @@ elif selected == 'Global Warming':
     engine.say("This map shows the cities that has recored highest global warming in between 2004 to 2021 along with respective percentages")
     engine.runAndWait()
 elif selected == 'Carbon dioide emission boxplot':
-    data2= pd.read_csv("C:/Users/AVISHEK/Documents/CO2_Emissions.csv")
+    data2= pd.read_csv("CO2_Emissions.csv")
     data2.reset_index(level=0, inplace=True)
     data3=data2.melt(id_vars=['Country Name'], var_name='Year').sort_values(by=['Year'])
     country_col=data3[data3['Country Name']!='World'].groupby(by=['Country Name']).max().sort_values(by=['value'], ascending=False).head(10).index.to_list() 
