@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 from plotly.offline import init_notebook_mode,iplot,plot
 init_notebook_mode(connected=True)
 import plotly.express as px
-from raceplotly.plots import barplot
+
 
 
 
