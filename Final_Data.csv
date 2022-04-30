@@ -1,0 +1,4261 @@
+Country_Code,Country ,Year,temp_change
+AFG,Afghanistan,2005,0.386
+ALB,Albania,2005,0.282
+DZA,Algeria,2005,1.346
+ASM,American Samoa,2005,0.83
+AND,Andorra,2005,0.864
+AGO,Angola,2005,1.029
+AIA,Anguilla,2005,0.629
+ATA,Antarctica,2005,0.875
+ATG,Antigua and Barbuda,2005,0.688
+ARG,Argentina,2005,0.199
+ARM,Armenia,2005,0.529
+ABW,Aruba,2005,0.585
+AUS,Australia,2005,1.144
+AUT,Austria,2005,0.641
+AZE,Azerbaijan,2005,0.88
+BHS,Bahamas,2005,0.52
+BHR,Bahrain,2005,1.114
+BGD,Bangladesh,2005,0.687
+BRB,Barbados,2005,1.175
+BLR,Belarus,2005,1.261
+BEL,Belgium,2005,1.193
+,Belgium-Luxembourg,2005,
+BLZ,Belize,2005,0.852
+BEN,Benin,2005,1.216
+BTN,Bhutan,2005,0.802
+BOL,Bolivia (Plurinational State of),2005,0.748
+BIH,Bosnia and Herzegovina,2005,0.15
+BWA,Botswana,2005,1.328
+BRA,Brazil,2005,1.202
+VGB,British Virgin Islands,2005,0.575
+BRN,Brunei Darussalam,2005,0.867
+BGR,Bulgaria,2005,0.167
+BFA,Burkina Faso,2005,1.415
+BDI,Burundi,2005,
+CPV,Cabo Verde,2005,1
+KHM,Cambodia,2005,0.664
+CMR,Cameroon,2005,1.05
+CAN,Canada,2005,1.298
+CYM,Cayman Islands,2005,0.752
+CAF,Central African Republic,2005,1.054
+TCD,Chad,2005,1.123
+CHA,Channel Islands,2005,1.205
+CHL,Chile,2005,0.102
+CHN,China,2005,1.049
+HKG,"China, Hong Kong SAR",2005,0.773
+MAC,"China, Macao SAR",2005,0.773
+,"China, mainland",2005,1.05
+TWN,"China, Taiwan Province of",2005,0.662
+CXR,Christmas Island,2005,1.009
+CCK,Cocos (Keeling) Islands,2005,0.635
+COL,Colombia,2005,0.761
+COM,Comoros,2005,0.688
+COG,Congo,2005,0.72
+COK,Cook Islands,2005,0.41
+CRI,Costa Rica,2005,0.577
+CIV,CÃ´te d'Ivoire,2005,1.027
+HRV,Croatia,2005,0.29
+CUB,Cuba,2005,0.496
+CYP,Cyprus,2005,0.348
+CZE,Czechia,2005,0.754
+,Czechoslovakia,2005,
+PRK,Democratic People's Republic of Korea,2005,0.778
+COD,Democratic Republic of the Congo,2005,0.957
+DNK,Denmark,2005,1.287
+DJI,Djibouti,2005,1.269
+DMA,Dominica,2005,0.745
+DOM,Dominican Republic,2005,0.974
+ECU,Ecuador,2005,0.815
+EGY,Egypt,2005,0.44
+SLV,El Salvador,2005,0.747
+GNQ,Equatorial Guinea,2005,0.835
+ERI,Eritrea,2005,0.916
+EST,Estonia,2005,1.612
+SWZ,Eswatini,2005,1.053
+ETH,Ethiopia,2005,1.128
+,Ethiopia PDR,2005,
+FLK,Falkland Islands (Malvinas),2005,
+FRO,Faroe Islands,2005,0.547
+FJI,Fiji,2005,0.77
+FIN,Finland,2005,2.212
+FRA,France,2005,1.025
+,French Guiana,2005,1.416
+PYF,French Polynesia,2005,0.674
+,French Southern and Antarctic Territories,2005,0.181
+GAB,Gabon,2005,0.665
+GMB,Gambia,2005,1.637
+GEO,Georgia,2005,0.59
+DEU,Germany,2005,1.022
+GHA,Ghana,2005,0.963
+GIB,Gibraltar,2005,0.902
+GRC,Greece,2005,0.308
+GRL,Greenland,2005,1.876
+GRD,Grenada,2005,1.144
+GLP,Guadeloupe,2005,0.68
+GTM,Guatemala,2005,0.813
+GIN,Guinea,2005,1.246
+GNB,Guinea-Bissau,2005,1.587
+GUY,Guyana,2005,1.126
+HTI,Haiti,2005,1.045
+VAT,Holy See,2005,0.473
+HND,Honduras,2005,1.088
+HUN,Hungary,2005,0.258
+ISL,Iceland,2005,0.458
+IND,India,2005,0.479
+IDN,Indonesia,2005,0.669
+IRN,Iran (Islamic Republic of),2005,0.773
+IRQ,Iraq,2005,0.443
+IRL,Ireland,2005,1.164
+IMN,Isle of Man,2005,1.158
+ISR,Israel,2005,0.146
+ITA,Italy,2005,0.568
+JAM,Jamaica,2005,1.053
+JPN,Japan,2005,0.726
+JOR,Jordan,2005,0.022
+KAZ,Kazakhstan,2005,1.571
+KEN,Kenya,2005,0.844
+KIR,Kiribati,2005,
+KWT,Kuwait,2005,0.775
+KGZ,Kyrgyzstan,2005,1.151
+LAO,Lao People's Democratic Republic,2005,0.897
+LVA,Latvia,2005,1.353
+LBN,Lebanon,2005,0.29
+LSO,Lesotho,2005,0.772
+LBR,Liberia,2005,0.984
+LBY,Libya,2005,0.759
+LIE,Liechtenstein,2005,0.679
+LTU,Lithuania,2005,1.201
+LUX,Luxembourg,2005,1.124
+MDG,Madagascar,2005,0.636
+MWI,Malawi,2005,1.236
+MYS,Malaysia,2005,0.857
+MDV,Maldives,2005,0.905
+MLI,Mali,2005,1.385
+MLT,Malta,2005,0.663
+MHL,Marshall Islands,2005,0.13
+MTQ,Martinique,2005,0.763
+MRT,Mauritania,2005,1.265
+MUS,Mauritius,2005,0.406
+MYT,Mayotte,2005,0.646
+MEX,Mexico,2005,0.732
+FSM,Micronesia (Federated States of),2005,0.169
+MID,Midway Island,2005,
+MCO,Monaco,2005,0.834
+MNG,Mongolia,2005,0.964
+MNE,Montenegro,2005,
+MSR,Montserrat,2005,0.688
+MAR,Morocco,2005,1.437
+MOZ,Mozambique,2005,1.006
+MMR,Myanmar,2005,0.874
+NAM,Namibia,2005,1.041
+NRU,Nauru,2005,
+NPL,Nepal,2005,0.769
+NLD,Netherlands,2005,1.245
+ANT,Netherlands Antilles (former),2005,0.698
+NCL,New Caledonia,2005,0.32
+NZL,New Zealand,2005,0.452
+NIC,Nicaragua,2005,0.948
+NER,Niger,2005,1.379
+NGA,Nigeria,2005,1.249
+NIU,Niue,2005,
+NFK,Norfolk Island,2005,0.307
+MKD,North Macedonia,2005,0.212
+NOR,Norway,2005,1.78
+OMN,Oman,2005,0.71
+,Pacific Islands Trust Territory,2005,
+PAK,Pakistan,2005,0.116
+PLW,Palau,2005,0.549
+PSE,Palestine,2005,0.145
+PAN,Panama,2005,0.72
+PNG,Papua New Guinea,2005,0.655
+PRY,Paraguay,2005,0.6
+PER,Peru,2005,0.893
+PHL,Philippines,2005,0.646
+,Pitcairn Islands,2005,-0.225
+POL,Poland,2005,0.885
+PRT,Portugal,2005,0.972
+PRI,Puerto Rico,2005,0.646
+QAT,Qatar,2005,0.873
+KOR,Republic of Korea,2005,0.847
+MDA,Republic of Moldova,2005,0.822
+REU,RÃ©union,2005,0.586
+ROU,Romania,2005,0.279
+RUS,Russian Federation,2005,1.71
+RWA,Rwanda,2005,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2005,1.359
+KNA,Saint Kitts and Nevis,2005,0.688
+LCA,Saint Lucia,2005,0.97
+SPM,Saint Pierre and Miquelon,2005,0.888
+VCT,Saint Vincent and the Grenadines,2005,1.144
+WSM,Samoa,2005,0.888
+SMR,San Marino,2005,0.464
+STP,Sao Tome and Principe,2005,0.662
+SAU,Saudi Arabia,2005,0.58
+SEN,Senegal,2005,1.336
+SRB,Serbia,2005,
+SCG,Serbia and Montenegro,2005,-0.027
+SYC,Seychelles,2005,0.542
+SLE,Sierra Leone,2005,1.255
+SGP,Singapore,2005,
+SVK,Slovakia,2005,0.422
+SVN,Slovenia,2005,0.506
+SLB,Solomon Islands,2005,0.874
+SOM,Somalia,2005,1.226
+ZAF,South Africa,2005,1.08
+SGS,South Georgia and the South Sandwich Islands,2005,0.124
+SSD,South Sudan,2005,
+ESP,Spain,2005,0.857
+LKA,Sri Lanka,2005,0.925
+SDN,Sudan,2005,
+,Sudan (former),2005,1.216
+SUR,Suriname,2005,1.398
+SJM,Svalbard and Jan Mayen Islands,2005,2.447
+SWE,Sweden,2005,1.827
+CHE,Switzerland,2005,0.814
+SYR,Syrian Arab Republic,2005,0.234
+TJK,Tajikistan,2005,0.628
+THA,Thailand,2005,0.84
+TLS,Timor-Leste,2005,1.248
+TGO,Togo,2005,1.085
+TKL,Tokelau,2005,
+TON,Tonga,2005,1.102
+TTO,Trinidad and Tobago,2005,1.491
+TUN,Tunisia,2005,1.24
+TUR,Turkey,2005,0.433
+TKM,Turkmenistan,2005,1.336
+TCA,Turks and Caicos Islands,2005,1.059
+TUV,Tuvalu,2005,0.803
+UGA,Uganda,2005,1.414
+UKR,Ukraine,2005,1.027
+ARE,United Arab Emirates,2005,0.524
+,United Kingdom,2005,1.104
+TZA,United Republic of Tanzania,2005,1.049
+USA,United States of America,2005,1.143
+VIR,United States Virgin Islands,2005,0.583
+URY,Uruguay,2005,0.752
+,USSR,2005,
+UZB,Uzbekistan,2005,1.353
+VUT,Vanuatu,2005,0.694
+VEN,Venezuela (Bolivarian Republic of),2005,0.904
+VNM,Viet Nam,2005,0.826
+WAK,Wake Island,2005,0.014
+WLF,Wallis and Futuna Islands,2005,0.931
+ESH,Western Sahara,2005,1.095
+YEM,Yemen,2005,
+,Yugoslav SFR,2005,
+ZMB,Zambia,2005,1.159
+ZWE,Zimbabwe,2005,1.124
+X01,World,2005,1.103
+X06,Africa,2005,1.1
+,Eastern Africa,2005,1.051
+,Middle Africa,2005,0.994
+,Northern Africa,2005,1.075
+,Southern Africa,2005,1.118
+,Western Africa,2005,1.289
+X21,Americas,2005,1.048
+,Northern America,2005,1.235
+,Central America,2005,0.761
+,Caribbean,2005,0.728
+,South America,2005,0.883
+,Asia,2005,0.862
+,Central Asia,2005,1.463
+,Eastern Asia,2005,1.022
+,Southern Asia,2005,0.52
+,South-Eastern Asia,2005,0.757
+,Western Asia,2005,0.525
+,Europe,2005,1.537
+,Eastern Europe,2005,1.626
+,Northern Europe,2005,1.629
+,Southern Europe,2005,0.593
+,Western Europe,2005,1
+,Oceania,2005,1.091
+,Australia and New Zealand,2005,1.121
+,Melanesia,2005,0.66
+,Micronesia,2005,0.294
+,Polynesia,2005,0.782
+,European Union,2005,1.03
+,Least Developed Countries,2005,1.094
+,Land Locked Developing Countries,2005,1.168
+,Small Island Developing States,2005,0.889
+,Low Income Food Deficit Countries,2005,0.982
+,Net Food Importing Developing Countries,2005,1.017
+,Annex I countries,2005,1.351
+,Non-Annex I countries,2005,0.93
+,OECD,2005,1.116
+AFG,Afghanistan,2006,1.647
+ALB,Albania,2006,0.492
+DZA,Algeria,2006,1.482
+ASM,American Samoa,2006,0.749
+AND,Andorra,2006,1.494
+AGO,Angola,2006,0.369
+AIA,Anguilla,2006,0.494
+ATA,Antarctica,2006,-0.081
+ATG,Antigua and Barbuda,2006,0.503
+ARG,Argentina,2006,0.529
+ARM,Armenia,2006,1.7
+ABW,Aruba,2006,0.61
+AUS,Australia,2006,0.643
+AUT,Austria,2006,0.923
+AZE,Azerbaijan,2006,1.556
+BHS,Bahamas,2006,0.235
+BHR,Bahrain,2006,1.851
+BGD,Bangladesh,2006,0.913
+BRB,Barbados,2006,0.93
+BLR,Belarus,2006,0.633
+BEL,Belgium,2006,1.393
+,Belgium-Luxembourg,2006,
+BLZ,Belize,2006,0.638
+BEN,Benin,2006,1.141
+BTN,Bhutan,2006,1.084
+BOL,Bolivia (Plurinational State of),2006,0.906
+BIH,Bosnia and Herzegovina,2006,0.627
+BWA,Botswana,2006,-0.252
+BRA,Brazil,2006,0.882
+VGB,British Virgin Islands,2006,0.513
+BRN,Brunei Darussalam,2006,0.541
+BGR,Bulgaria,2006,0.52
+BFA,Burkina Faso,2006,1.137
+BDI,Burundi,2006,
+CPV,Cabo Verde,2006,1.184
+KHM,Cambodia,2006,0.637
+CMR,Cameroon,2006,1.071
+CAN,Canada,2006,2.353
+CYM,Cayman Islands,2006,0.689
+CAF,Central African Republic,2006,1.071
+TCD,Chad,2006,1.367
+CHA,Channel Islands,2006,1.148
+CHL,Chile,2006,0.488
+CHN,China,2006,1.228
+HKG,"China, Hong Kong SAR",2006,0.949
+MAC,"China, Macao SAR",2006,0.949
+,"China, mainland",2006,1.23
+TWN,"China, Taiwan Province of",2006,0.721
+CXR,Christmas Island,2006,0.224
+CCK,Cocos (Keeling) Islands,2006,0.329
+COL,Colombia,2006,0.587
+COM,Comoros,2006,0.494
+COG,Congo,2006,0.703
+COK,Cook Islands,2006,0.61
+CRI,Costa Rica,2006,0.551
+CIV,CÃ´te d'Ivoire,2006,0.918
+HRV,Croatia,2006,0.724
+CUB,Cuba,2006,0.851
+CYP,Cyprus,2006,0.638
+CZE,Czechia,2006,0.958
+,Czechoslovakia,2006,
+PRK,Democratic People's Republic of Korea,2006,0.639
+COD,Democratic Republic of the Congo,2006,0.834
+DNK,Denmark,2006,1.354
+DJI,Djibouti,2006,0.961
+DMA,Dominica,2006,0.623
+DOM,Dominican Republic,2006,1.058
+ECU,Ecuador,2006,0.792
+EGY,Egypt,2006,0.654
+SLV,El Salvador,2006,0.695
+GNQ,Equatorial Guinea,2006,0.675
+ERI,Eritrea,2006,1.057
+EST,Estonia,2006,1.26
+SWZ,Eswatini,2006,0.381
+ETH,Ethiopia,2006,0.988
+,Ethiopia PDR,2006,
+FLK,Falkland Islands (Malvinas),2006,
+FRO,Faroe Islands,2006,1.185
+FJI,Fiji,2006,0.813
+FIN,Finland,2006,1.216
+FRA,France,2006,1.31
+,French Guiana,2006,0.872
+PYF,French Polynesia,2006,0.83
+,French Southern and Antarctic Territories,2006,0.337
+GAB,Gabon,2006,0.658
+GMB,Gambia,2006,1.365
+GEO,Georgia,2006,1.337
+DEU,Germany,2006,1.253
+GHA,Ghana,2006,0.975
+GIB,Gibraltar,2006,1.481
+GRC,Greece,2006,0.34
+GRL,Greenland,2006,1.715
+GRD,Grenada,2006,0.919
+GLP,Guadeloupe,2006,0.544
+GTM,Guatemala,2006,0.587
+GIN,Guinea,2006,1.173
+GNB,Guinea-Bissau,2006,1.349
+GUY,Guyana,2006,1.026
+HTI,Haiti,2006,0.954
+VAT,Holy See,2006,0.662
+HND,Honduras,2006,0.682
+HUN,Hungary,2006,0.724
+ISL,Iceland,2006,1.038
+IND,India,2006,0.578
+IDN,Indonesia,2006,0.386
+IRN,Iran (Islamic Republic of),2006,1.789
+IRQ,Iraq,2006,1.519
+IRL,Ireland,2006,1.151
+IMN,Isle of Man,2006,1.222
+ISR,Israel,2006,0.544
+ITA,Italy,2006,0.854
+JAM,Jamaica,2006,1.046
+JPN,Japan,2006,0.378
+JOR,Jordan,2006,0.676
+KAZ,Kazakhstan,2006,1.453
+KEN,Kenya,2006,0.859
+KIR,Kiribati,2006,0.777
+KWT,Kuwait,2006,1.953
+KGZ,Kyrgyzstan,2006,1.585
+LAO,Lao People's Democratic Republic,2006,0.85
+LVA,Latvia,2006,1.079
+LBN,Lebanon,2006,0.733
+LSO,Lesotho,2006,-0.051
+LBR,Liberia,2006,1.005
+LBY,Libya,2006,0.848
+LIE,Liechtenstein,2006,0.974
+LTU,Lithuania,2006,0.917
+LUX,Luxembourg,2006,1.351
+MDG,Madagascar,2006,0.808
+MWI,Malawi,2006,1.019
+MYS,Malaysia,2006,0.566
+MDV,Maldives,2006,0.464
+MLI,Mali,2006,1.108
+MLT,Malta,2006,1.028
+MHL,Marshall Islands,2006,0.063
+MTQ,Martinique,2006,0.653
+MRT,Mauritania,2006,1.338
+MUS,Mauritius,2006,0.324
+MYT,Mayotte,2006,0.471
+MEX,Mexico,2006,0.854
+FSM,Micronesia (Federated States of),2006,0.212
+MID,Midway Island,2006,
+MCO,Monaco,2006,1.188
+MNG,Mongolia,2006,1.26
+MNE,Montenegro,2006,0.511
+MSR,Montserrat,2006,0.503
+MAR,Morocco,2006,1.641
+MOZ,Mozambique,2006,0.551
+MMR,Myanmar,2006,0.777
+NAM,Namibia,2006,-0.193
+NRU,Nauru,2006,
+NPL,Nepal,2006,0.895
+NLD,Netherlands,2006,1.498
+ANT,Netherlands Antilles (former),2006,0.499
+NCL,New Caledonia,2006,0.223
+NZL,New Zealand,2006,0.395
+NIC,Nicaragua,2006,0.662
+NER,Niger,2006,1.387
+NGA,Nigeria,2006,1.328
+NIU,Niue,2006,
+NFK,Norfolk Island,2006,0.189
+MKD,North Macedonia,2006,0.434
+NOR,Norway,2006,1.519
+OMN,Oman,2006,0.768
+,Pacific Islands Trust Territory,2006,
+PAK,Pakistan,2006,0.867
+PLW,Palau,2006,0.589
+PSE,Palestine,2006,0.541
+PAN,Panama,2006,0.622
+PNG,Papua New Guinea,2006,0.271
+PRY,Paraguay,2006,0.992
+PER,Peru,2006,0.871
+PHL,Philippines,2006,0.686
+,Pitcairn Islands,2006,0.535
+POL,Poland,2006,0.84
+PRT,Portugal,2006,1.533
+PRI,Puerto Rico,2006,0.626
+QAT,Qatar,2006,1.658
+KOR,Republic of Korea,2006,0.439
+MDA,Republic of Moldova,2006,0.24
+REU,RÃ©union,2006,0.414
+ROU,Romania,2006,0.499
+RUS,Russian Federation,2006,0.558
+RWA,Rwanda,2006,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2006,1.653
+KNA,Saint Kitts and Nevis,2006,0.503
+LCA,Saint Lucia,2006,0.802
+SPM,Saint Pierre and Miquelon,2006,1.776
+VCT,Saint Vincent and the Grenadines,2006,0.919
+WSM,Samoa,2006,0.478
+SMR,San Marino,2006,0.871
+STP,Sao Tome and Principe,2006,0.739
+SAU,Saudi Arabia,2006,1.205
+SEN,Senegal,2006,1.332
+SRB,Serbia,2006,0.565
+SCG,Serbia and Montenegro,2006,
+SYC,Seychelles,2006,0.597
+SLE,Sierra Leone,2006,1.204
+SGP,Singapore,2006,
+SVK,Slovakia,2006,0.659
+SVN,Slovenia,2006,0.899
+SLB,Solomon Islands,2006,0.618
+SOM,Somalia,2006,1.018
+ZAF,South Africa,2006,0.428
+SGS,South Georgia and the South Sandwich Islands,2006,0.748
+SSD,South Sudan,2006,
+ESP,Spain,2006,1.485
+LKA,Sri Lanka,2006,0.664
+SDN,Sudan,2006,
+,Sudan (former),2006,1.137
+SUR,Suriname,2006,1.026
+SJM,Svalbard and Jan Mayen Islands,2006,3.886
+SWE,Sweden,2006,1.491
+CHE,Switzerland,2006,1.1
+SYR,Syrian Arab Republic,2006,1.026
+TJK,Tajikistan,2006,1.373
+THA,Thailand,2006,0.628
+TLS,Timor-Leste,2006,0.313
+TGO,Togo,2006,1.095
+TKL,Tokelau,2006,1.801
+TON,Tonga,2006,0.886
+TTO,Trinidad and Tobago,2006,1.005
+TUN,Tunisia,2006,1.464
+TUR,Turkey,2006,0.882
+TKM,Turkmenistan,2006,1.718
+TCA,Turks and Caicos Islands,2006,1.161
+TUV,Tuvalu,2006,0.681
+UGA,Uganda,2006,1.078
+UKR,Ukraine,2006,0.282
+ARE,United Arab Emirates,2006,0.992
+,United Kingdom,2006,1.238
+TZA,United Republic of Tanzania,2006,0.92
+USA,United States of America,2006,1.013
+VIR,United States Virgin Islands,2006,0.505
+URY,Uruguay,2006,0.539
+,USSR,2006,
+UZB,Uzbekistan,2006,1.55
+VUT,Vanuatu,2006,0.536
+VEN,Venezuela (Bolivarian Republic of),2006,0.744
+VNM,Viet Nam,2006,0.88
+WAK,Wake Island,2006,0.171
+WLF,Wallis and Futuna Islands,2006,0.947
+ESH,Western Sahara,2006,1.294
+YEM,Yemen,2006,
+,Yugoslav SFR,2006,
+ZMB,Zambia,2006,0.608
+ZWE,Zimbabwe,2006,-0.042
+X01,World,2006,1.001
+X06,Africa,2006,0.94
+,Eastern Africa,2006,0.792
+,Middle Africa,2006,0.875
+,Northern Africa,2006,1.155
+,Southern Africa,2006,0.083
+,Western Africa,2006,1.235
+X21,Americas,2006,1.234
+,Northern America,2006,1.692
+,Central America,2006,0.808
+,Caribbean,2006,0.868
+,South America,2006,0.786
+,Asia,2006,1.101
+,Central Asia,2006,1.5
+,Eastern Asia,2006,1.192
+,Southern Asia,2006,1.038
+,South-Eastern Asia,2006,0.576
+,Western Asia,2006,1.134
+,Europe,2006,0.678
+,Eastern Europe,2006,0.556
+,Northern Europe,2006,1.328
+,Southern Europe,2006,1.04
+,Western Europe,2006,1.264
+,Oceania,2006,0.614
+,Australia and New Zealand,2006,0.635
+,Melanesia,2006,0.312
+,Micronesia,2006,0.493
+,Polynesia,2006,0.707
+,European Union,2006,1.126
+,Least Developed Countries,2006,1.006
+,Land Locked Developing Countries,2006,1.149
+,Small Island Developing States,2006,0.676
+,Low Income Food Deficit Countries,2006,0.992
+,Net Food Importing Developing Countries,2006,0.932
+,Annex I countries,2006,1.081
+,Non-Annex I countries,2006,0.944
+,OECD,2006,1.291
+AFG,Afghanistan,2007,0.616
+ALB,Albania,2007,1.475
+DZA,Algeria,2007,1.31
+ASM,American Samoa,2007,1.589
+AND,Andorra,2007,1.005
+AGO,Angola,2007,0.659
+AIA,Anguilla,2007,0.728
+ATA,Antarctica,2007,0.68
+ATG,Antigua and Barbuda,2007,0.7
+ARG,Argentina,2007,-0.232
+ARM,Armenia,2007,0.735
+ABW,Aruba,2007,0.962
+AUS,Australia,2007,0.864
+AUT,Austria,2007,2.15
+AZE,Azerbaijan,2007,1.029
+BHS,Bahamas,2007,0.829
+BHR,Bahrain,2007,1.058
+BGD,Bangladesh,2007,0.414
+BRB,Barbados,2007,0.775
+BLR,Belarus,2007,2.347
+BEL,Belgium,2007,1.875
+,Belgium-Luxembourg,2007,
+BLZ,Belize,2007,0.819
+BEN,Benin,2007,0.932
+BTN,Bhutan,2007,1.096
+BOL,Bolivia (Plurinational State of),2007,0.527
+BIH,Bosnia and Herzegovina,2007,1.909
+BWA,Botswana,2007,0.569
+BRA,Brazil,2007,1.059
+VGB,British Virgin Islands,2007,0.764
+BRN,Brunei Darussalam,2007,0.546
+BGR,Bulgaria,2007,1.834
+BFA,Burkina Faso,2007,0.836
+BDI,Burundi,2007,0.669
+CPV,Cabo Verde,2007,0.65
+KHM,Cambodia,2007,0.517
+CMR,Cameroon,2007,0.776
+CAN,Canada,2007,1.332
+CYM,Cayman Islands,2007,0.84
+CAF,Central African Republic,2007,0.628
+TCD,Chad,2007,0.596
+CHA,Channel Islands,2007,1.315
+CHL,Chile,2007,-0.327
+CHN,China,2007,1.531
+HKG,"China, Hong Kong SAR",2007,1.061
+MAC,"China, Macao SAR",2007,1.061
+,"China, mainland",2007,1.534
+TWN,"China, Taiwan Province of",2007,0.791
+CXR,Christmas Island,2007,0.596
+CCK,Cocos (Keeling) Islands,2007,0.552
+COL,Colombia,2007,0.693
+COM,Comoros,2007,0.826
+COG,Congo,2007,0.745
+COK,Cook Islands,2007,0.64
+CRI,Costa Rica,2007,0.676
+CIV,CÃ´te d'Ivoire,2007,1.026
+HRV,Croatia,2007,1.99
+CUB,Cuba,2007,0.836
+CYP,Cyprus,2007,0.835
+CZE,Czechia,2007,2.174
+,Czechoslovakia,2007,
+PRK,Democratic People's Republic of Korea,2007,1.562
+COD,Democratic Republic of the Congo,2007,0.635
+DNK,Denmark,2007,2.144
+DJI,Djibouti,2007,0.952
+DMA,Dominica,2007,0.682
+DOM,Dominican Republic,2007,1.202
+ECU,Ecuador,2007,0.809
+EGY,Egypt,2007,0.508
+SLV,El Salvador,2007,0.653
+GNQ,Equatorial Guinea,2007,0.867
+ERI,Eritrea,2007,0.378
+EST,Estonia,2007,2.266
+SWZ,Eswatini,2007,0.984
+ETH,Ethiopia,2007,0.87
+,Ethiopia PDR,2007,
+FLK,Falkland Islands (Malvinas),2007,
+FRO,Faroe Islands,2007,0.991
+FJI,Fiji,2007,1.19
+FIN,Finland,2007,1.955
+FRA,France,2007,1.403
+,French Guiana,2007,1.162
+PYF,French Polynesia,2007,0.864
+,French Southern and Antarctic Territories,2007,0.158
+GAB,Gabon,2007,0.869
+GMB,Gambia,2007,1.27
+GEO,Georgia,2007,0.925
+DEU,Germany,2007,2.086
+GHA,Ghana,2007,0.94
+GIB,Gibraltar,2007,0.886
+GRC,Greece,2007,1.146
+GRL,Greenland,2007,1.357
+GRD,Grenada,2007,0.836
+GLP,Guadeloupe,2007,0.707
+GTM,Guatemala,2007,0.747
+GIN,Guinea,2007,1.07
+GNB,Guinea-Bissau,2007,1.266
+GUY,Guyana,2007,0.945
+HTI,Haiti,2007,1.133
+VAT,Holy See,2007,1.343
+HND,Honduras,2007,0.817
+HUN,Hungary,2007,2.165
+ISL,Iceland,2007,1.103
+IND,India,2007,0.513
+IDN,Indonesia,2007,0.443
+IRN,Iran (Islamic Republic of),2007,0.797
+IRQ,Iraq,2007,0.862
+IRL,Ireland,2007,1.34
+IMN,Isle of Man,2007,1.312
+ISR,Israel,2007,0.468
+ITA,Italy,2007,1.557
+JAM,Jamaica,2007,0.958
+JPN,Japan,2007,0.99
+JOR,Jordan,2007,0.454
+KAZ,Kazakhstan,2007,2.226
+KEN,Kenya,2007,0.574
+KIR,Kiribati,2007,0.865
+KWT,Kuwait,2007,1.147
+KGZ,Kyrgyzstan,2007,1.692
+LAO,Lao People's Democratic Republic,2007,0.573
+LVA,Latvia,2007,2.2
+LBN,Lebanon,2007,0.743
+LSO,Lesotho,2007,0.621
+LBR,Liberia,2007,0.94
+LBY,Libya,2007,0.914
+LIE,Liechtenstein,2007,1.95
+LTU,Lithuania,2007,2.191
+LUX,Luxembourg,2007,1.934
+MDG,Madagascar,2007,0.7
+MWI,Malawi,2007,0.994
+MYS,Malaysia,2007,0.598
+MDV,Maldives,2007,0.509
+MLI,Mali,2007,0.957
+MLT,Malta,2007,1.355
+MHL,Marshall Islands,2007,0.067
+MTQ,Martinique,2007,0.695
+MRT,Mauritania,2007,0.961
+MUS,Mauritius,2007,0.522
+MYT,Mayotte,2007,0.845
+MEX,Mexico,2007,0.465
+FSM,Micronesia (Federated States of),2007,0.079
+MID,Midway Island,2007,
+MCO,Monaco,2007,1.642
+MNG,Mongolia,2007,2.768
+MNE,Montenegro,2007,1.756
+MSR,Montserrat,2007,0.7
+MAR,Morocco,2007,1.187
+MOZ,Mozambique,2007,0.661
+MMR,Myanmar,2007,0.434
+NAM,Namibia,2007,1.075
+NRU,Nauru,2007,
+NPL,Nepal,2007,0.595
+NLD,Netherlands,2007,2.061
+ANT,Netherlands Antilles (former),2007,0.851
+NCL,New Caledonia,2007,0.61
+NZL,New Zealand,2007,0.26
+NIC,Nicaragua,2007,0.915
+NER,Niger,2007,1.09
+NGA,Nigeria,2007,0.942
+NIU,Niue,2007,
+NFK,Norfolk Island,2007,0.275
+MKD,North Macedonia,2007,1.568
+NOR,Norway,2007,1.703
+OMN,Oman,2007,0.568
+,Pacific Islands Trust Territory,2007,
+PAK,Pakistan,2007,0.567
+PLW,Palau,2007,0.686
+PSE,Palestine,2007,0.47
+PAN,Panama,2007,0.628
+PNG,Papua New Guinea,2007,0.463
+PRY,Paraguay,2007,0.356
+PER,Peru,2007,0.616
+PHL,Philippines,2007,0.752
+,Pitcairn Islands,2007,0.111
+POL,Poland,2007,2.151
+PRT,Portugal,2007,0.746
+PRI,Puerto Rico,2007,0.846
+QAT,Qatar,2007,0.999
+KOR,Republic of Korea,2007,1.215
+MDA,Republic of Moldova,2007,2.31
+REU,RÃ©union,2007,0.628
+ROU,Romania,2007,2.088
+RUS,Russian Federation,2007,2.495
+RWA,Rwanda,2007,0.694
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2007,1.059
+KNA,Saint Kitts and Nevis,2007,0.7
+LCA,Saint Lucia,2007,0.764
+SPM,Saint Pierre and Miquelon,2007,0.324
+VCT,Saint Vincent and the Grenadines,2007,0.836
+WSM,Samoa,2007,1.13
+SMR,San Marino,2007,1.807
+STP,Sao Tome and Principe,2007,0.97
+SAU,Saudi Arabia,2007,0.728
+SEN,Senegal,2007,1.181
+SRB,Serbia,2007,1.901
+SCG,Serbia and Montenegro,2007,
+SYC,Seychelles,2007,0.84
+SLE,Sierra Leone,2007,0.934
+SGP,Singapore,2007,
+SVK,Slovakia,2007,2.176
+SVN,Slovenia,2007,2.201
+SLB,Solomon Islands,2007,1.03
+SOM,Somalia,2007,1.155
+ZAF,South Africa,2007,0.826
+SGS,South Georgia and the South Sandwich Islands,2007,0.169
+SSD,South Sudan,2007,
+ESP,Spain,2007,0.794
+LKA,Sri Lanka,2007,0.641
+SDN,Sudan,2007,
+,Sudan (former),2007,0.395
+SUR,Suriname,2007,0.998
+SJM,Svalbard and Jan Mayen Islands,2007,3.05
+SWE,Sweden,2007,1.935
+CHE,Switzerland,2007,1.816
+SYR,Syrian Arab Republic,2007,0.802
+TJK,Tajikistan,2007,1.102
+THA,Thailand,2007,0.497
+TLS,Timor-Leste,2007,0.587
+TGO,Togo,2007,0.989
+TKL,Tokelau,2007,1.671
+TON,Tonga,2007,1.153
+TTO,Trinidad and Tobago,2007,0.987
+TUN,Tunisia,2007,1.589
+TUR,Turkey,2007,0.964
+TKM,Turkmenistan,2007,1.157
+TCA,Turks and Caicos Islands,2007,1.304
+TUV,Tuvalu,2007,0.767
+UGA,Uganda,2007,0.491
+UKR,Ukraine,2007,2.383
+ARE,United Arab Emirates,2007,0.588
+,United Kingdom,2007,1.321
+TZA,United Republic of Tanzania,2007,0.769
+USA,United States of America,2007,1.134
+VIR,United States Virgin Islands,2007,0.769
+URY,Uruguay,2007,0.094
+,USSR,2007,
+UZB,Uzbekistan,2007,1.363
+VUT,Vanuatu,2007,1.004
+VEN,Venezuela (Bolivarian Republic of),2007,0.807
+VNM,Viet Nam,2007,0.516
+WAK,Wake Island,2007,-0.136
+WLF,Wallis and Futuna Islands,2007,1.169
+ESH,Western Sahara,2007,0.867
+YEM,Yemen,2007,
+,Yugoslav SFR,2007,
+ZMB,Zambia,2007,0.864
+ZWE,Zimbabwe,2007,0.363
+X01,World,2007,1.198
+X06,Africa,2007,0.818
+,Eastern Africa,2007,0.76
+,Middle Africa,2007,0.658
+,Northern Africa,2007,0.85
+,Southern Africa,2007,0.846
+,Western Africa,2007,0.994
+X21,Americas,2007,0.941
+,Northern America,2007,1.237
+,Central America,2007,0.531
+,Caribbean,2007,0.955
+,South America,2007,0.666
+,Asia,2007,1.182
+,Central Asia,2007,1.932
+,Eastern Asia,2007,1.676
+,Southern Asia,2007,0.605
+,South-Eastern Asia,2007,0.496
+,Western Asia,2007,0.778
+,Europe,2007,2.31
+,Eastern Europe,2007,2.471
+,Northern Europe,2007,1.767
+,Southern Europe,2007,1.232
+,Western Europe,2007,1.735
+,Oceania,2007,0.824
+,Australia and New Zealand,2007,0.844
+,Melanesia,2007,0.535
+,Micronesia,2007,0.504
+,Polynesia,2007,0.994
+,European Union,2007,1.683
+,Least Developed Countries,2007,0.727
+,Land Locked Developing Countries,2007,1.229
+,Small Island Developing States,2007,0.777
+,Low Income Food Deficit Countries,2007,0.73
+,Net Food Importing Developing Countries,2007,0.842
+,Annex I countries,2007,1.671
+,Non-Annex I countries,2007,0.87
+,OECD,2007,1.113
+AFG,Afghanistan,2008,0.671
+ALB,Albania,2008,1.129
+DZA,Algeria,2008,1.282
+ASM,American Samoa,2008,0.695
+AND,Andorra,2008,0.912
+AGO,Angola,2008,0.336
+AIA,Anguilla,2008,0.204
+ATA,Antarctica,2008,0.605
+ATG,Antigua and Barbuda,2008,0.185
+ARG,Argentina,2008,0.529
+ARM,Armenia,2008,0.88
+ABW,Aruba,2008,0.327
+AUS,Australia,2008,0.553
+AUT,Austria,2008,1.592
+AZE,Azerbaijan,2008,0.976
+BHS,Bahamas,2008,0.857
+BHR,Bahrain,2008,1.299
+BGD,Bangladesh,2008,0.213
+BRB,Barbados,2008,0.437
+BLR,Belarus,2008,2.239
+BEL,Belgium,2008,1.247
+,Belgium-Luxembourg,2008,
+BLZ,Belize,2008,0.546
+BEN,Benin,2008,0.726
+BTN,Bhutan,2008,0.689
+BOL,Bolivia (Plurinational State of),2008,0.398
+BIH,Bosnia and Herzegovina,2008,1.42
+BWA,Botswana,2008,0.502
+BRA,Brazil,2008,0.796
+VGB,British Virgin Islands,2008,0.21
+BRN,Brunei Darussalam,2008,0.381
+BGR,Bulgaria,2008,1.141
+BFA,Burkina Faso,2008,0.288
+BDI,Burundi,2008,0.304
+CPV,Cabo Verde,2008,1.131
+KHM,Cambodia,2008,0.378
+CMR,Cameroon,2008,0.728
+CAN,Canada,2008,0.853
+CYM,Cayman Islands,2008,0.647
+CAF,Central African Republic,2008,0.73
+TCD,Chad,2008,0.536
+CHA,Channel Islands,2008,0.843
+CHL,Chile,2008,0.383
+CHN,China,2008,1.088
+HKG,"China, Hong Kong SAR",2008,0.463
+MAC,"China, Macao SAR",2008,0.463
+,"China, mainland",2008,1.09
+TWN,"China, Taiwan Province of",2008,0.592
+CXR,Christmas Island,2008,0.159
+CCK,Cocos (Keeling) Islands,2008,0.523
+COL,Colombia,2008,0.413
+COM,Comoros,2008,0.605
+COG,Congo,2008,0.676
+COK,Cook Islands,2008,0.504
+CRI,Costa Rica,2008,0.245
+CIV,CÃ´te d'Ivoire,2008,0.749
+HRV,Croatia,2008,1.464
+CUB,Cuba,2008,0.425
+CYP,Cyprus,2008,1.05
+CZE,Czechia,2008,1.65
+,Czechoslovakia,2008,
+PRK,Democratic People's Republic of Korea,2008,1.484
+COD,Democratic Republic of the Congo,2008,0.534
+DNK,Denmark,2008,1.865
+DJI,Djibouti,2008,0.393
+DMA,Dominica,2008,0.27
+DOM,Dominican Republic,2008,0.625
+ECU,Ecuador,2008,0.665
+EGY,Egypt,2008,0.832
+SLV,El Salvador,2008,0.447
+GNQ,Equatorial Guinea,2008,0.728
+ERI,Eritrea,2008,1.224
+EST,Estonia,2008,2.607
+SWZ,Eswatini,2008,0.564
+ETH,Ethiopia,2008,0.79
+,Ethiopia PDR,2008,
+FLK,Falkland Islands (Malvinas),2008,
+FRO,Faroe Islands,2008,0.917
+FJI,Fiji,2008,0.663
+FIN,Finland,2008,2.142
+FRA,France,2008,0.982
+,French Guiana,2008,0.909
+PYF,French Polynesia,2008,0.364
+,French Southern and Antarctic Territories,2008,0.406
+GAB,Gabon,2008,0.759
+GMB,Gambia,2008,1.531
+GEO,Georgia,2008,0.716
+DEU,Germany,2008,1.539
+GHA,Ghana,2008,0.696
+GIB,Gibraltar,2008,1.042
+GRC,Greece,2008,0.934
+GRL,Greenland,2008,0.953
+GRD,Grenada,2008,0.685
+GLP,Guadeloupe,2008,0.227
+GTM,Guatemala,2008,0.442
+GIN,Guinea,2008,1.218
+GNB,Guinea-Bissau,2008,1.603
+GUY,Guyana,2008,0.855
+HTI,Haiti,2008,0.696
+VAT,Holy See,2008,0.988
+HND,Honduras,2008,0.55
+HUN,Hungary,2008,1.516
+ISL,Iceland,2008,0.757
+IND,India,2008,0.167
+IDN,Indonesia,2008,0.263
+IRN,Iran (Islamic Republic of),2008,1.031
+IRQ,Iraq,2008,1.063
+IRL,Ireland,2008,0.83
+IMN,Isle of Man,2008,0.823
+ISR,Israel,2008,0.668
+ITA,Italy,2008,1.135
+JAM,Jamaica,2008,0.574
+JPN,Japan,2008,0.658
+JOR,Jordan,2008,0.634
+KAZ,Kazakhstan,2008,1.587
+KEN,Kenya,2008,0.81
+KIR,Kiribati,2008,0.62
+KWT,Kuwait,2008,1.462
+KGZ,Kyrgyzstan,2008,0.987
+LAO,Lao People's Democratic Republic,2008,0.243
+LVA,Latvia,2008,2.394
+LBN,Lebanon,2008,0.992
+LSO,Lesotho,2008,0.367
+LBR,Liberia,2008,1.123
+LBY,Libya,2008,0.939
+LIE,Liechtenstein,2008,1.405
+LTU,Lithuania,2008,2.216
+LUX,Luxembourg,2008,1.273
+MDG,Madagascar,2008,0.522
+MWI,Malawi,2008,0.679
+MYS,Malaysia,2008,0.483
+MDV,Maldives,2008,0.279
+MLI,Mali,2008,0.549
+MLT,Malta,2008,1.273
+MHL,Marshall Islands,2008,-0.181
+MTQ,Martinique,2008,0.306
+MRT,Mauritania,2008,1.223
+MUS,Mauritius,2008,0.268
+MYT,Mayotte,2008,0.614
+MEX,Mexico,2008,0.537
+FSM,Micronesia (Federated States of),2008,-0.134
+MID,Midway Island,2008,
+MCO,Monaco,2008,1.089
+MNG,Mongolia,2008,1.805
+MNE,Montenegro,2008,1.317
+MSR,Montserrat,2008,0.185
+MAR,Morocco,2008,1.336
+MOZ,Mozambique,2008,0.359
+MMR,Myanmar,2008,0.416
+NAM,Namibia,2008,0.736
+NRU,Nauru,2008,
+NPL,Nepal,2008,0.345
+NLD,Netherlands,2008,1.421
+ANT,Netherlands Antilles (former),2008,0.344
+NCL,New Caledonia,2008,0.526
+NZL,New Zealand,2008,0.564
+NIC,Nicaragua,2008,0.555
+NER,Niger,2008,0.488
+NGA,Nigeria,2008,0.726
+NIU,Niue,2008,
+NFK,Norfolk Island,2008,0.164
+MKD,North Macedonia,2008,1.171
+NOR,Norway,2008,1.633
+OMN,Oman,2008,0.47
+,Pacific Islands Trust Territory,2008,
+PAK,Pakistan,2008,0.256
+PLW,Palau,2008,
+PSE,Palestine,2008,0.668
+PAN,Panama,2008,0.346
+PNG,Papua New Guinea,2008,0.345
+PRY,Paraguay,2008,0.358
+PER,Peru,2008,0.715
+PHL,Philippines,2008,0.457
+,Pitcairn Islands,2008,0.029
+POL,Poland,2008,1.756
+PRT,Portugal,2008,0.627
+PRI,Puerto Rico,2008,0.289
+QAT,Qatar,2008,1.168
+KOR,Republic of Korea,2008,0.929
+MDA,Republic of Moldova,2008,1.454
+REU,RÃ©union,2008,0.478
+ROU,Romania,2008,1.298
+RUS,Russian Federation,2008,2.227
+RWA,Rwanda,2008,0.428
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2008,1.137
+KNA,Saint Kitts and Nevis,2008,0.185
+LCA,Saint Lucia,2008,0.482
+SPM,Saint Pierre and Miquelon,2008,0.401
+VCT,Saint Vincent and the Grenadines,2008,0.685
+WSM,Samoa,2008,0.664
+SMR,San Marino,2008,1.219
+STP,Sao Tome and Principe,2008,0.692
+SAU,Saudi Arabia,2008,0.914
+SEN,Senegal,2008,1.255
+SRB,Serbia,2008,1.347
+SCG,Serbia and Montenegro,2008,
+SYC,Seychelles,2008,0.52
+SLE,Sierra Leone,2008,1.363
+SGP,Singapore,2008,
+SVK,Slovakia,2008,1.549
+SVN,Slovenia,2008,1.605
+SLB,Solomon Islands,2008,
+SOM,Somalia,2008,0.796
+ZAF,South Africa,2008,0.691
+SGS,South Georgia and the South Sandwich Islands,2008,0.693
+SSD,South Sudan,2008,
+ESP,Spain,2008,0.828
+LKA,Sri Lanka,2008,0.553
+SDN,Sudan,2008,
+,Sudan (former),2008,0.845
+SUR,Suriname,2008,1.203
+SJM,Svalbard and Jan Mayen Islands,2008,1.84
+SWE,Sweden,2008,1.962
+CHE,Switzerland,2008,1.206
+SYR,Syrian Arab Republic,2008,1.036
+TJK,Tajikistan,2008,0.789
+THA,Thailand,2008,0.345
+TLS,Timor-Leste,2008,0.311
+TGO,Togo,2008,0.818
+TKL,Tokelau,2008,0.682
+TON,Tonga,2008,0.633
+TTO,Trinidad and Tobago,2008,0.857
+TUN,Tunisia,2008,1.579
+TUR,Turkey,2008,0.837
+TKM,Turkmenistan,2008,0.762
+TCA,Turks and Caicos Islands,2008,0.743
+TUV,Tuvalu,2008,0.359
+UGA,Uganda,2008,0.676
+UKR,Ukraine,2008,1.626
+ARE,United Arab Emirates,2008,0.574
+,United Kingdom,2008,0.828
+TZA,United Republic of Tanzania,2008,0.53
+USA,United States of America,2008,0.203
+VIR,United States Virgin Islands,2008,0.232
+URY,Uruguay,2008,0.705
+,USSR,2008,
+UZB,Uzbekistan,2008,0.687
+VUT,Vanuatu,2008,0.907
+VEN,Venezuela (Bolivarian Republic of),2008,0.648
+VNM,Viet Nam,2008,0.206
+WAK,Wake Island,2008,-0.111
+WLF,Wallis and Futuna Islands,2008,0.609
+ESH,Western Sahara,2008,1.349
+YEM,Yemen,2008,
+,Yugoslav SFR,2008,
+ZMB,Zambia,2008,0.543
+ZWE,Zimbabwe,2008,0.325
+X01,World,2008,0.938
+X06,Africa,2008,0.754
+,Eastern Africa,2008,0.613
+,Middle Africa,2008,0.547
+,Northern Africa,2008,1.041
+,Southern Africa,2008,0.659
+,Western Africa,2008,0.764
+X21,Americas,2008,0.593
+,Northern America,2008,0.537
+,Central America,2008,0.522
+,Caribbean,2008,0.534
+,South America,2008,0.666
+,Asia,2008,0.873
+,Central Asia,2008,1.327
+,Eastern Asia,2008,1.172
+,Southern Asia,2008,0.456
+,South-Eastern Asia,2008,0.324
+,Western Asia,2008,0.875
+,Europe,2008,2.024
+,Eastern Europe,2008,2.173
+,Northern Europe,2008,1.698
+,Southern Europe,2008,1.011
+,Western Europe,2008,1.241
+,Oceania,2008,0.543
+,Australia and New Zealand,2008,0.553
+,Melanesia,2008,0.376
+,Micronesia,2008,0.222
+,Polynesia,2008,0.506
+,European Union,2008,1.388
+,Least Developed Countries,2008,0.636
+,Land Locked Developing Countries,2008,0.858
+,Small Island Developing States,2008,0.645
+,Low Income Food Deficit Countries,2008,0.604
+,Net Food Importing Developing Countries,2008,0.718
+,Annex I countries,2008,1.218
+,Non-Annex I countries,2008,0.742
+,OECD,2008,0.647
+AFG,Afghanistan,2009,0.841
+ALB,Albania,2009,1.002
+DZA,Algeria,2009,1.044
+ASM,American Samoa,2009,
+AND,Andorra,2009,1.381
+AGO,Angola,2009,0.554
+AIA,Anguilla,2009,0.424
+ATA,Antarctica,2009,1.314
+ATG,Antigua and Barbuda,2009,0.366
+ARG,Argentina,2009,0.784
+ARM,Armenia,2009,0.711
+ABW,Aruba,2009,0.773
+AUS,Australia,2009,0.968
+AUT,Austria,2009,1.55
+AZE,Azerbaijan,2009,0.846
+BHS,Bahamas,2009,0.442
+BHR,Bahrain,2009,1.202
+BGD,Bangladesh,2009,0.976
+BRB,Barbados,2009,0.577
+BLR,Belarus,2009,1.583
+BEL,Belgium,2009,1.156
+,Belgium-Luxembourg,2009,
+BLZ,Belize,2009,0.888
+BEN,Benin,2009,1.057
+BTN,Bhutan,2009,1.519
+BOL,Bolivia (Plurinational State of),2009,0.735
+BIH,Bosnia and Herzegovina,2009,1.427
+BWA,Botswana,2009,0.064
+BRA,Brazil,2009,1.031
+VGB,British Virgin Islands,2009,0.483
+BRN,Brunei Darussalam,2009,0.826
+BGR,Bulgaria,2009,1.247
+BFA,Burkina Faso,2009,0.932
+BDI,Burundi,2009,
+CPV,Cabo Verde,2009,0.965
+KHM,Cambodia,2009,0.338
+CMR,Cameroon,2009,1.15
+CAN,Canada,2009,0.544
+CYM,Cayman Islands,2009,0.551
+CAF,Central African Republic,2009,1.244
+TCD,Chad,2009,1.312
+CHA,Channel Islands,2009,0.745
+CHL,Chile,2009,0.407
+CHN,China,2009,1.333
+HKG,"China, Hong Kong SAR",2009,1
+MAC,"China, Macao SAR",2009,1
+,"China, mainland",2009,1.335
+TWN,"China, Taiwan Province of",2009,0.777
+CXR,Christmas Island,2009,0.345
+CCK,Cocos (Keeling) Islands,2009,0.529
+COL,Colombia,2009,0.899
+COM,Comoros,2009,0.937
+COG,Congo,2009,0.695
+COK,Cook Islands,2009,0.362
+CRI,Costa Rica,2009,0.87
+CIV,CÃ´te d'Ivoire,2009,0.919
+HRV,Croatia,2009,1.504
+CUB,Cuba,2009,0.628
+CYP,Cyprus,2009,1.015
+CZE,Czechia,2009,1.429
+,Czechoslovakia,2009,
+PRK,Democratic People's Republic of Korea,2009,1.033
+COD,Democratic Republic of the Congo,2009,0.748
+DNK,Denmark,2009,1.332
+DJI,Djibouti,2009,1.589
+DMA,Dominica,2009,0.476
+DOM,Dominican Republic,2009,0.705
+ECU,Ecuador,2009,1.052
+EGY,Egypt,2009,0.841
+SLV,El Salvador,2009,1.011
+GNQ,Equatorial Guinea,2009,0.831
+ERI,Eritrea,2009,1.891
+EST,Estonia,2009,1.615
+SWZ,Eswatini,2009,0.347
+ETH,Ethiopia,2009,1.369
+,Ethiopia PDR,2009,
+FLK,Falkland Islands (Malvinas),2009,
+FRO,Faroe Islands,2009,1.461
+FJI,Fiji,2009,0.51
+FIN,Finland,2009,1.699
+FRA,France,2009,1.199
+,French Guiana,2009,1.279
+PYF,French Polynesia,2009,0.818
+,French Southern and Antarctic Territories,2009,0.329
+GAB,Gabon,2009,0.76
+GMB,Gambia,2009,0.917
+GEO,Georgia,2009,0.718
+DEU,Germany,2009,1.278
+GHA,Ghana,2009,0.845
+GIB,Gibraltar,2009,1.314
+GRC,Greece,2009,0.82
+GRL,Greenland,2009,0.837
+GRD,Grenada,2009,0.686
+GLP,Guadeloupe,2009,0.437
+GTM,Guatemala,2009,1.045
+GIN,Guinea,2009,1.056
+GNB,Guinea-Bissau,2009,1.178
+GUY,Guyana,2009,1.269
+HTI,Haiti,2009,0.807
+VAT,Holy See,2009,1.08
+HND,Honduras,2009,0.746
+HUN,Hungary,2009,1.633
+ISL,Iceland,2009,0.917
+IND,India,2009,1.035
+IDN,Indonesia,2009,0.575
+IRN,Iran (Islamic Republic of),2009,1.113
+IRQ,Iraq,2009,0.787
+IRL,Ireland,2009,0.796
+IMN,Isle of Man,2009,0.865
+ISR,Israel,2009,0.77
+ITA,Italy,2009,1.248
+JAM,Jamaica,2009,0.84
+JPN,Japan,2009,0.792
+JOR,Jordan,2009,0.502
+KAZ,Kazakhstan,2009,1.208
+KEN,Kenya,2009,1.348
+KIR,Kiribati,2009,1.001
+KWT,Kuwait,2009,1.362
+KGZ,Kyrgyzstan,2009,0.997
+LAO,Lao People's Democratic Republic,2009,0.606
+LVA,Latvia,2009,1.506
+LBN,Lebanon,2009,0.886
+LSO,Lesotho,2009,0.392
+LBR,Liberia,2009,1.309
+LBY,Libya,2009,0.901
+LIE,Liechtenstein,2009,1.418
+LTU,Lithuania,2009,1.379
+LUX,Luxembourg,2009,1.18
+MDG,Madagascar,2009,0.85
+MWI,Malawi,2009,1.004
+MYS,Malaysia,2009,0.747
+MDV,Maldives,2009,0.631
+MLI,Mali,2009,0.982
+MLT,Malta,2009,1.109
+MHL,Marshall Islands,2009,0.022
+MTQ,Martinique,2009,0.506
+MRT,Mauritania,2009,0.862
+MUS,Mauritius,2009,0.888
+MYT,Mayotte,2009,0.899
+MEX,Mexico,2009,1.073
+FSM,Micronesia (Federated States of),2009,0.211
+MID,Midway Island,2009,
+MCO,Monaco,2009,1.459
+MNG,Mongolia,2009,1.442
+MNE,Montenegro,2009,1.264
+MSR,Montserrat,2009,0.366
+MAR,Morocco,2009,1.427
+MOZ,Mozambique,2009,0.573
+MMR,Myanmar,2009,0.843
+NAM,Namibia,2009,0.701
+NRU,Nauru,2009,
+NPL,Nepal,2009,1.216
+NLD,Netherlands,2009,1.215
+ANT,Netherlands Antilles (former),2009,0.708
+NCL,New Caledonia,2009,0.35
+NZL,New Zealand,2009,0.058
+NIC,Nicaragua,2009,0.768
+NER,Niger,2009,1.522
+NGA,Nigeria,2009,1.419
+NIU,Niue,2009,
+NFK,Norfolk Island,2009,
+MKD,North Macedonia,2009,1.034
+NOR,Norway,2009,1.405
+OMN,Oman,2009,0.682
+,Pacific Islands Trust Territory,2009,
+PAK,Pakistan,2009,0.934
+PLW,Palau,2009,0.619
+PSE,Palestine,2009,0.779
+PAN,Panama,2009,0.871
+PNG,Papua New Guinea,2009,0.324
+PRY,Paraguay,2009,0.99
+PER,Peru,2009,0.981
+PHL,Philippines,2009,0.6
+,Pitcairn Islands,2009,-0.132
+POL,Poland,2009,1.276
+PRT,Portugal,2009,1.408
+PRI,Puerto Rico,2009,0.511
+QAT,Qatar,2009,1.135
+KOR,Republic of Korea,2009,0.926
+MDA,Republic of Moldova,2009,1.689
+REU,RÃ©union,2009,1.025
+ROU,Romania,2009,1.571
+RUS,Russian Federation,2009,1.196
+RWA,Rwanda,2009,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2009,1.706
+KNA,Saint Kitts and Nevis,2009,0.366
+LCA,Saint Lucia,2009,0.595
+SPM,Saint Pierre and Miquelon,2009,0.655
+VCT,Saint Vincent and the Grenadines,2009,0.686
+WSM,Samoa,2009,
+SMR,San Marino,2009,1.358
+STP,Sao Tome and Principe,2009,0.893
+SAU,Saudi Arabia,2009,1.052
+SEN,Senegal,2009,0.701
+SRB,Serbia,2009,1.376
+SCG,Serbia and Montenegro,2009,
+SYC,Seychelles,2009,0.783
+SLE,Sierra Leone,2009,1.041
+SGP,Singapore,2009,
+SVK,Slovakia,2009,1.518
+SVN,Slovenia,2009,1.657
+SLB,Solomon Islands,2009,0.51
+SOM,Somalia,2009,1.54
+ZAF,South Africa,2009,0.799
+SGS,South Georgia and the South Sandwich Islands,2009,0.07
+SSD,South Sudan,2009,
+ESP,Spain,2009,1.316
+LKA,Sri Lanka,2009,0.703
+SDN,Sudan,2009,
+,Sudan (former),2009,1.565
+SUR,Suriname,2009,1.445
+SJM,Svalbard and Jan Mayen Islands,2009,1.906
+SWE,Sweden,2009,1.435
+CHE,Switzerland,2009,1.377
+SYR,Syrian Arab Republic,2009,0.681
+TJK,Tajikistan,2009,0.671
+THA,Thailand,2009,0.449
+TLS,Timor-Leste,2009,0.728
+TGO,Togo,2009,0.994
+TKL,Tokelau,2009,
+TON,Tonga,2009,0.694
+TTO,Trinidad and Tobago,2009,0.748
+TUN,Tunisia,2009,1.073
+TUR,Turkey,2009,0.673
+TKM,Turkmenistan,2009,1.104
+TCA,Turks and Caicos Islands,2009,0.768
+TUV,Tuvalu,2009,0.732
+UGA,Uganda,2009,1.224
+UKR,Ukraine,2009,1.596
+ARE,United Arab Emirates,2009,0.762
+,United Kingdom,2009,0.941
+TZA,United Republic of Tanzania,2009,0.963
+USA,United States of America,2009,0.386
+VIR,United States Virgin Islands,2009,0.488
+URY,Uruguay,2009,0.486
+,USSR,2009,
+UZB,Uzbekistan,2009,1.06
+VUT,Vanuatu,2009,0.724
+VEN,Venezuela (Bolivarian Republic of),2009,0.947
+VNM,Viet Nam,2009,0.682
+WAK,Wake Island,2009,0.17
+WLF,Wallis and Futuna Islands,2009,0.685
+ESH,Western Sahara,2009,0.918
+YEM,Yemen,2009,
+,Yugoslav SFR,2009,
+ZMB,Zambia,2009,0.571
+ZWE,Zimbabwe,2009,-0.094
+X01,World,2009,0.967
+X06,Africa,2009,1.011
+,Eastern Africa,2009,0.986
+,Middle Africa,2009,0.895
+,Northern Africa,2009,1.16
+,Southern Africa,2009,0.601
+,Western Africa,2009,1.131
+X21,Americas,2009,0.709
+,Northern America,2009,0.473
+,Central America,2009,1.028
+,Caribbean,2009,0.659
+,South America,2009,0.933
+,Asia,2009,1.075
+,Central Asia,2009,1.149
+,Eastern Asia,2009,1.323
+,Southern Asia,2009,1.027
+,South-Eastern Asia,2009,0.616
+,Western Asia,2009,0.883
+,Europe,2009,1.239
+,Eastern Europe,2009,1.224
+,Northern Europe,2009,1.36
+,Southern Europe,2009,1.266
+,Western Europe,2009,1.257
+,Oceania,2009,0.9
+,Australia and New Zealand,2009,0.938
+,Melanesia,2009,0.35
+,Micronesia,2009,0.58
+,Polynesia,2009,0.766
+,European Union,2009,1.326
+,Least Developed Countries,2009,1.05
+,Land Locked Developing Countries,2009,1.071
+,Small Island Developing States,2009,0.756
+,Low Income Food Deficit Countries,2009,1.078
+,Net Food Importing Developing Countries,2009,1.027
+,Annex I countries,2009,0.901
+,Non-Annex I countries,2009,1.013
+,OECD,2009,0.715
+AFG,Afghanistan,2010,1.564
+ALB,Albania,2010,1.294
+DZA,Algeria,2010,2.359
+ASM,American Samoa,2010,1.271
+AND,Andorra,2010,0.441
+AGO,Angola,2010,1.058
+AIA,Anguilla,2010,0.916
+ATA,Antarctica,2010,0.813
+ATG,Antigua and Barbuda,2010,0.96
+ARG,Argentina,2010,0.078
+ARM,Armenia,2010,2.703
+ABW,Aruba,2010,1.289
+AUS,Australia,2010,0.644
+AUT,Austria,2010,0.664
+AZE,Azerbaijan,2010,2.36
+BHS,Bahamas,2010,0.336
+BHR,Bahrain,2010,2.189
+BGD,Bangladesh,2010,0.943
+BRB,Barbados,2010,1.32
+BLR,Belarus,2010,1.436
+BEL,Belgium,2010,0.229
+,Belgium-Luxembourg,2010,
+BLZ,Belize,2010,0.799
+BEN,Benin,2010,1.352
+BTN,Bhutan,2010,1.321
+BOL,Bolivia (Plurinational State of),2010,0.709
+BIH,Bosnia and Herzegovina,2010,1.01
+BWA,Botswana,2010,1.27
+BRA,Brazil,2010,1.181
+VGB,British Virgin Islands,2010,0.884
+BRN,Brunei Darussalam,2010,0.877
+BGR,Bulgaria,2010,1.304
+BFA,Burkina Faso,2010,1.249
+BDI,Burundi,2010,
+CPV,Cabo Verde,2010,2.45
+KHM,Cambodia,2010,1.107
+CMR,Cameroon,2010,1.26
+CAN,Canada,2010,2.917
+CYM,Cayman Islands,2010,0.753
+CAF,Central African Republic,2010,1.252
+TCD,Chad,2010,1.325
+CHA,Channel Islands,2010,0.17
+CHL,Chile,2010,-0.091
+CHN,China,2010,0.961
+HKG,"China, Hong Kong SAR",2010,0.477
+MAC,"China, Macao SAR",2010,0.477
+,"China, mainland",2010,0.963
+TWN,"China, Taiwan Province of",2010,0.513
+CXR,Christmas Island,2010,
+CCK,Cocos (Keeling) Islands,2010,0.897
+COL,Colombia,2010,1.049
+COM,Comoros,2010,1.179
+COG,Congo,2010,1.142
+COK,Cook Islands,2010,0.88
+CRI,Costa Rica,2010,0.957
+CIV,CÃ´te d'Ivoire,2010,1.225
+HRV,Croatia,2010,0.874
+CUB,Cuba,2010,0.496
+CYP,Cyprus,2010,1.991
+CZE,Czechia,2010,0.417
+,Czechoslovakia,2010,
+PRK,Democratic People's Republic of Korea,2010,0.365
+COD,Democratic Republic of the Congo,2010,1.197
+DNK,Denmark,2010,-0.189
+DJI,Djibouti,2010,1.131
+DMA,Dominica,2010,1.127
+DOM,Dominican Republic,2010,1.401
+ECU,Ecuador,2010,1.112
+EGY,Egypt,2010,2.249
+SLV,El Salvador,2010,0.63
+GNQ,Equatorial Guinea,2010,1.106
+ERI,Eritrea,2010,1.754
+EST,Estonia,2010,0.55
+SWZ,Eswatini,2010,1.122
+ETH,Ethiopia,2010,1.306
+,Ethiopia PDR,2010,
+FLK,Falkland Islands (Malvinas),2010,
+FRO,Faroe Islands,2010,0.268
+FJI,Fiji,2010,1.008
+FIN,Finland,2010,0.246
+FRA,France,2010,0.379
+,French Guiana,2010,1.501
+PYF,French Polynesia,2010,0.774
+,French Southern and Antarctic Territories,2010,0.496
+GAB,Gabon,2010,0.925
+GMB,Gambia,2010,1.539
+GEO,Georgia,2010,2.449
+DEU,Germany,2010,0.192
+GHA,Ghana,2010,1.254
+GIB,Gibraltar,2010,1.384
+GRC,Greece,2010,1.629
+GRL,Greenland,2010,3.042
+GRD,Grenada,2010,1.428
+GLP,Guadeloupe,2010,1.002
+GTM,Guatemala,2010,0.716
+GIN,Guinea,2010,1.45
+GNB,Guinea-Bissau,2010,1.666
+GUY,Guyana,2010,1.311
+HTI,Haiti,2010,1.208
+VAT,Holy See,2010,0.814
+HND,Honduras,2010,0.722
+HUN,Hungary,2010,0.828
+ISL,Iceland,2010,1.172
+IND,India,2010,1.017
+IDN,Indonesia,2010,0.752
+IRN,Iran (Islamic Republic of),2010,2.16
+IRQ,Iraq,2010,2.597
+IRL,Ireland,2010,-0.115
+IMN,Isle of Man,2010,-0.123
+ISR,Israel,2010,2.265
+ITA,Italy,2010,0.774
+JAM,Jamaica,2010,1.331
+JPN,Japan,2010,0.909
+JOR,Jordan,2010,2.556
+KAZ,Kazakhstan,2010,1.33
+KEN,Kenya,2010,1.177
+KIR,Kiribati,2010,0.709
+KWT,Kuwait,2010,2.643
+KGZ,Kyrgyzstan,2010,1.341
+LAO,Lao People's Democratic Republic,2010,1.315
+LVA,Latvia,2010,0.691
+LBN,Lebanon,2010,2.364
+LSO,Lesotho,2010,1.143
+LBR,Liberia,2010,1.306
+LBY,Libya,2010,2.139
+LIE,Liechtenstein,2010,0.498
+LTU,Lithuania,2010,0.748
+LUX,Luxembourg,2010,0.316
+MDG,Madagascar,2010,1.138
+MWI,Malawi,2010,1.238
+MYS,Malaysia,2010,0.978
+MDV,Maldives,2010,0.766
+MLI,Mali,2010,1.665
+MLT,Malta,2010,1.344
+MHL,Marshall Islands,2010,0.188
+MTQ,Martinique,2010,1.141
+MRT,Mauritania,2010,1.918
+MUS,Mauritius,2010,1.066
+MYT,Mayotte,2010,1.141
+MEX,Mexico,2010,0.284
+FSM,Micronesia (Federated States of),2010,0.335
+MID,Midway Island,2010,
+MCO,Monaco,2010,0.438
+MNG,Mongolia,2010,0.351
+MNE,Montenegro,2010,1.242
+MSR,Montserrat,2010,0.96
+MAR,Morocco,2010,2.276
+MOZ,Mozambique,2010,1.002
+MMR,Myanmar,2010,1.158
+NAM,Namibia,2010,1.47
+NRU,Nauru,2010,
+NPL,Nepal,2010,1.248
+NLD,Netherlands,2010,0.091
+ANT,Netherlands Antilles (former),2010,1.181
+NCL,New Caledonia,2010,0.756
+NZL,New Zealand,2010,0.595
+NIC,Nicaragua,2010,0.82
+NER,Niger,2010,1.787
+NGA,Nigeria,2010,1.538
+NIU,Niue,2010,
+NFK,Norfolk Island,2010,
+MKD,North Macedonia,2010,1.387
+NOR,Norway,2010,-0.328
+OMN,Oman,2010,1.09
+,Pacific Islands Trust Territory,2010,
+PAK,Pakistan,2010,1.187
+PLW,Palau,2010,0.566
+PSE,Palestine,2010,2.274
+PAN,Panama,2010,0.958
+PNG,Papua New Guinea,2010,1.022
+PRY,Paraguay,2010,0.408
+PER,Peru,2010,1.227
+PHL,Philippines,2010,0.92
+,Pitcairn Islands,2010,0.059
+POL,Poland,2010,0.403
+PRT,Portugal,2010,1.119
+PRI,Puerto Rico,2010,1.008
+QAT,Qatar,2010,1.986
+KOR,Republic of Korea,2010,0.472
+MDA,Republic of Moldova,2010,1.251
+REU,RÃ©union,2010,0.947
+ROU,Romania,2010,1.122
+RUS,Russian Federation,2010,0.885
+RWA,Rwanda,2010,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2010,1.173
+KNA,Saint Kitts and Nevis,2010,0.96
+LCA,Saint Lucia,2010,1.28
+SPM,Saint Pierre and Miquelon,2010,1.28
+VCT,Saint Vincent and the Grenadines,2010,1.428
+WSM,Samoa,2010,1.127
+SMR,San Marino,2010,0.703
+STP,Sao Tome and Principe,2010,1.08
+SAU,Saudi Arabia,2010,2.179
+SEN,Senegal,2010,1.461
+SRB,Serbia,2010,1.184
+SCG,Serbia and Montenegro,2010,
+SYC,Seychelles,2010,0.998
+SLE,Sierra Leone,2010,1.519
+SGP,Singapore,2010,
+SVK,Slovakia,2010,0.709
+SVN,Slovenia,2010,0.797
+SLB,Solomon Islands,2010,1.047
+SOM,Somalia,2010,1.294
+ZAF,South Africa,2010,1.195
+SGS,South Georgia and the South Sandwich Islands,2010,0.684
+SSD,South Sudan,2010,
+ESP,Spain,2010,0.86
+LKA,Sri Lanka,2010,1.107
+SDN,Sudan,2010,
+,Sudan (former),2010,1.618
+SUR,Suriname,2010,1.541
+SJM,Svalbard and Jan Mayen Islands,2010,2.272
+SWE,Sweden,2010,-0.281
+CHE,Switzerland,2010,0.461
+SYR,Syrian Arab Republic,2010,2.489
+TJK,Tajikistan,2010,1.19
+THA,Thailand,2010,1.248
+TLS,Timor-Leste,2010,0.944
+TGO,Togo,2010,1.383
+TKL,Tokelau,2010,1.058
+TON,Tonga,2010,1.158
+TTO,Trinidad and Tobago,2010,1.584
+TUN,Tunisia,2010,1.974
+TUR,Turkey,2010,2.365
+TKM,Turkmenistan,2010,1.927
+TCA,Turks and Caicos Islands,2010,1.5
+TUV,Tuvalu,2010,1.005
+UGA,Uganda,2010,1.287
+UKR,Ukraine,2010,1.623
+ARE,United Arab Emirates,2010,1.406
+,United Kingdom,2010,-0.068
+TZA,United Republic of Tanzania,2010,1.194
+USA,United States of America,2010,0.679
+VIR,United States Virgin Islands,2010,0.892
+URY,Uruguay,2010,0.241
+,USSR,2010,
+UZB,Uzbekistan,2010,1.776
+VUT,Vanuatu,2010,1.105
+VEN,Venezuela (Bolivarian Republic of),2010,1.325
+VNM,Viet Nam,2010,1.105
+WAK,Wake Island,2010,0.077
+WLF,Wallis and Futuna Islands,2010,0.992
+ESH,Western Sahara,2010,1.905
+YEM,Yemen,2010,
+,Yugoslav SFR,2010,
+ZMB,Zambia,2010,1.48
+ZWE,Zimbabwe,2010,1.06
+X01,World,2010,1.228
+X06,Africa,2010,1.541
+,Eastern Africa,2010,1.233
+,Middle Africa,2010,1.191
+,Northern Africa,2010,2.057
+,Southern Africa,2010,1.295
+,Western Africa,2010,1.624
+X21,Americas,2010,1.33
+,Northern America,2010,1.826
+,Central America,2010,0.393
+,Caribbean,2010,0.867
+,South America,2010,0.906
+,Asia,2010,1.251
+,Central Asia,2010,1.448
+,Eastern Asia,2010,0.868
+,Southern Asia,2010,1.384
+,South-Eastern Asia,2010,0.968
+,Western Asia,2010,2.194
+,Europe,2010,0.817
+,Eastern Europe,2010,0.91
+,Northern Europe,2010,0.02
+,Southern Europe,2010,0.986
+,Western Europe,2010,0.328
+,Oceania,2010,0.666
+,Australia and New Zealand,2010,0.642
+,Melanesia,2010,1.016
+,Micronesia,2010,0.513
+,Polynesia,2010,0.946
+,European Union,2010,0.488
+,Least Developed Countries,2010,1.387
+,Land Locked Developing Countries,2010,1.267
+,Small Island Developing States,2010,1.126
+,Low Income Food Deficit Countries,2010,1.345
+,Net Food Importing Developing Countries,2010,1.35
+,Annex I countries,2010,1.209
+,Non-Annex I countries,2010,1.24
+,OECD,2010,1.246
+AFG,Afghanistan,2011,1.342
+ALB,Albania,2011,1.123
+DZA,Algeria,2011,1.492
+ASM,American Samoa,2011,0.79
+AND,Andorra,2011,1.643
+AGO,Angola,2011,0.708
+AIA,Anguilla,2011,0.345
+ATA,Antarctica,2011,0.725
+ATG,Antigua and Barbuda,2011,0.457
+ARG,Argentina,2011,0.324
+ARM,Armenia,2011,0.676
+ABW,Aruba,2011,0.385
+AUS,Australia,2011,0.176
+AUT,Austria,2011,1.376
+AZE,Azerbaijan,2011,0.831
+BHS,Bahamas,2011,0.392
+BHR,Bahrain,2011,1.409
+BGD,Bangladesh,2011,0.243
+BRB,Barbados,2011,0.867
+BLR,Belarus,2011,0.994
+BEL,Belgium,2011,1.286
+,Belgium-Luxembourg,2011,
+BLZ,Belize,2011,0.674
+BEN,Benin,2011,1.072
+BTN,Bhutan,2011,0.604
+BOL,Bolivia (Plurinational State of),2011,1.145
+BIH,Bosnia and Herzegovina,2011,1.163
+BWA,Botswana,2011,0.348
+BRA,Brazil,2011,0.841
+VGB,British Virgin Islands,2011,0.226
+BRN,Brunei Darussalam,2011,0.502
+BGR,Bulgaria,2011,0.368
+BFA,Burkina Faso,2011,0.981
+BDI,Burundi,2011,0.628
+CPV,Cabo Verde,2011,1.376
+KHM,Cambodia,2011,0.315
+CMR,Cameroon,2011,0.693
+CAN,Canada,2011,1.444
+CYM,Cayman Islands,2011,0.439
+CAF,Central African Republic,2011,0.806
+TCD,Chad,2011,1.053
+CHA,Channel Islands,2011,1.136
+CHL,Chile,2011,0.103
+CHN,China,2011,0.788
+HKG,"China, Hong Kong SAR",2011,0.434
+MAC,"China, Macao SAR",2011,0.434
+,"China, mainland",2011,0.791
+TWN,"China, Taiwan Province of",2011,0.058
+CXR,Christmas Island,2011,0.185
+CCK,Cocos (Keeling) Islands,2011,0.618
+COL,Colombia,2011,0.535
+COM,Comoros,2011,0.815
+COG,Congo,2011,0.556
+COK,Cook Islands,2011,0.79
+CRI,Costa Rica,2011,0.501
+CIV,CÃ´te d'Ivoire,2011,0.912
+HRV,Croatia,2011,1.268
+CUB,Cuba,2011,0.463
+CYP,Cyprus,2011,0.71
+CZE,Czechia,2011,1.047
+,Czechoslovakia,2011,
+PRK,Democratic People's Republic of Korea,2011,0.496
+COD,Democratic Republic of the Congo,2011,0.681
+DNK,Denmark,2011,0.697
+DJI,Djibouti,2011,0.989
+DMA,Dominica,2011,0.583
+DOM,Dominican Republic,2011,0.677
+ECU,Ecuador,2011,0.798
+EGY,Egypt,2011,0.565
+SLV,El Salvador,2011,0.651
+GNQ,Equatorial Guinea,2011,0.787
+ERI,Eritrea,2011,1.555
+EST,Estonia,2011,1.301
+SWZ,Eswatini,2011,0.956
+ETH,Ethiopia,2011,1.158
+,Ethiopia PDR,2011,
+FLK,Falkland Islands (Malvinas),2011,
+FRO,Faroe Islands,2011,1.053
+FJI,Fiji,2011,0.971
+FIN,Finland,2011,1.355
+FRA,France,2011,1.514
+,French Guiana,2011,1.062
+PYF,French Polynesia,2011,0.206
+,French Southern and Antarctic Territories,2011,0.478
+GAB,Gabon,2011,0.52
+GMB,Gambia,2011,1.277
+GEO,Georgia,2011,0.447
+DEU,Germany,2011,1.119
+GHA,Ghana,2011,0.856
+GIB,Gibraltar,2011,1.673
+GRC,Greece,2011,0.445
+GRL,Greenland,2011,1.686
+GRD,Grenada,2011,0.958
+GLP,Guadeloupe,2011,0.449
+GTM,Guatemala,2011,0.701
+GIN,Guinea,2011,1.145
+GNB,Guinea-Bissau,2011,1.478
+GUY,Guyana,2011,0.877
+HTI,Haiti,2011,0.566
+VAT,Holy See,2011,1.07
+HND,Honduras,2011,0.64
+HUN,Hungary,2011,0.913
+ISL,Iceland,2011,0.982
+IND,India,2011,0.235
+IDN,Indonesia,2011,0.308
+IRN,Iran (Islamic Republic of),2011,1.306
+IRQ,Iraq,2011,0.8
+IRL,Ireland,2011,0.547
+IMN,Isle of Man,2011,0.67
+ISR,Israel,2011,0.521
+ITA,Italy,2011,1.256
+JAM,Jamaica,2011,0.615
+JPN,Japan,2011,0.582
+JOR,Jordan,2011,0.477
+KAZ,Kazakhstan,2011,0.754
+KEN,Kenya,2011,1.145
+KIR,Kiribati,2011,0.726
+KWT,Kuwait,2011,1.416
+KGZ,Kyrgyzstan,2011,1.195
+LAO,Lao People's Democratic Republic,2011,0.084
+LVA,Latvia,2011,1.138
+LBN,Lebanon,2011,0.699
+LSO,Lesotho,2011,0.403
+LBR,Liberia,2011,0.964
+LBY,Libya,2011,0.903
+LIE,Liechtenstein,2011,1.664
+LTU,Lithuania,2011,0.94
+LUX,Luxembourg,2011,1.337
+MDG,Madagascar,2011,1.002
+MWI,Malawi,2011,0.87
+MYS,Malaysia,2011,0.6
+MDV,Maldives,2011,0.616
+MLI,Mali,2011,1.239
+MLT,Malta,2011,1.026
+MHL,Marshall Islands,2011,0.004
+MTQ,Martinique,2011,0.614
+MRT,Mauritania,2011,1.533
+MUS,Mauritius,2011,0.853
+MYT,Mayotte,2011,0.878
+MEX,Mexico,2011,1.016
+FSM,Micronesia (Federated States of),2011,0.104
+MID,Midway Island,2011,
+MCO,Monaco,2011,1.387
+MNG,Mongolia,2011,0.795
+MNE,Montenegro,2011,1.022
+MSR,Montserrat,2011,0.457
+MAR,Morocco,2011,1.967
+MOZ,Mozambique,2011,0.745
+MMR,Myanmar,2011,0.467
+NAM,Namibia,2011,-0.232
+NRU,Nauru,2011,
+NPL,Nepal,2011,0.324
+NLD,Netherlands,2011,1.062
+ANT,Netherlands Antilles (former),2011,0.383
+NCL,New Caledonia,2011,0.587
+NZL,New Zealand,2011,0.666
+NIC,Nicaragua,2011,0.649
+NER,Niger,2011,1.197
+NGA,Nigeria,2011,0.975
+NIU,Niue,2011,
+NFK,Norfolk Island,2011,0.702
+MKD,North Macedonia,2011,0.741
+NOR,Norway,2011,1.421
+OMN,Oman,2011,0.837
+,Pacific Islands Trust Territory,2011,
+PAK,Pakistan,2011,0.734
+PLW,Palau,2011,0.566
+PSE,Palestine,2011,0.529
+PAN,Panama,2011,0.564
+PNG,Papua New Guinea,2011,0.417
+PRY,Paraguay,2011,0.725
+PER,Peru,2011,0.914
+PHL,Philippines,2011,0.48
+,Pitcairn Islands,2011,
+POL,Poland,2011,0.767
+PRT,Portugal,2011,1.609
+PRI,Puerto Rico,2011,0.45
+QAT,Qatar,2011,1.47
+KOR,Republic of Korea,2011,0.27
+MDA,Republic of Moldova,2011,0.372
+REU,RÃ©union,2011,0.977
+ROU,Romania,2011,0.455
+RUS,Russian Federation,2011,1.709
+RWA,Rwanda,2011,0.687
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2011,1.485
+KNA,Saint Kitts and Nevis,2011,0.457
+LCA,Saint Lucia,2011,0.791
+SPM,Saint Pierre and Miquelon,2011,1.124
+VCT,Saint Vincent and the Grenadines,2011,0.958
+WSM,Samoa,2011,0.748
+SMR,San Marino,2011,1.284
+STP,Sao Tome and Principe,2011,0.762
+SAU,Saudi Arabia,2011,0.893
+SEN,Senegal,2011,1.187
+SRB,Serbia,2011,0.753
+SCG,Serbia and Montenegro,2011,
+SYC,Seychelles,2011,0.908
+SLE,Sierra Leone,2011,1.136
+SGP,Singapore,2011,
+SVK,Slovakia,2011,0.868
+SVN,Slovenia,2011,1.379
+SLB,Solomon Islands,2011,1.25
+SOM,Somalia,2011,1.268
+ZAF,South Africa,2011,0.51
+SGS,South Georgia and the South Sandwich Islands,2011,0.514
+SSD,South Sudan,2011,1.391
+ESP,Spain,2011,1.559
+LKA,Sri Lanka,2011,0.779
+SDN,Sudan,2011,0.964
+,Sudan (former),2011,
+SUR,Suriname,2011,1.051
+SJM,Svalbard and Jan Mayen Islands,2011,2.106
+SWE,Sweden,2011,1.277
+CHE,Switzerland,2011,1.667
+SYR,Syrian Arab Republic,2011,0.687
+TJK,Tajikistan,2011,1.321
+THA,Thailand,2011,0.208
+TLS,Timor-Leste,2011,-0.014
+TGO,Togo,2011,1
+TKL,Tokelau,2011,
+TON,Tonga,2011,0.923
+TTO,Trinidad and Tobago,2011,1.18
+TUN,Tunisia,2011,1.258
+TUR,Turkey,2011,0.391
+TKM,Turkmenistan,2011,1.137
+TCA,Turks and Caicos Islands,2011,0.748
+TUV,Tuvalu,2011,0.909
+UGA,Uganda,2011,0.849
+UKR,Ukraine,2011,0.551
+ARE,United Arab Emirates,2011,1.074
+,United Kingdom,2011,0.834
+TZA,United Republic of Tanzania,2011,0.885
+USA,United States of America,2011,0.53
+VIR,United States Virgin Islands,2011,0.27
+URY,Uruguay,2011,0.417
+,USSR,2011,
+UZB,Uzbekistan,2011,1.038
+VUT,Vanuatu,2011,0.934
+VEN,Venezuela (Bolivarian Republic of),2011,0.672
+VNM,Viet Nam,2011,0.129
+WAK,Wake Island,2011,0.032
+WLF,Wallis and Futuna Islands,2011,0.919
+ESH,Western Sahara,2011,1.553
+YEM,Yemen,2011,
+,Yugoslav SFR,2011,
+ZMB,Zambia,2011,0.952
+ZWE,Zimbabwe,2011,0.529
+X01,World,2011,0.923
+X06,Africa,2011,0.949
+,Eastern Africa,2011,0.983
+,Middle Africa,2011,0.758
+,Northern Africa,2011,1.197
+,Southern Africa,2011,0.248
+,Western Africa,2011,1.181
+X21,Americas,2011,0.872
+,Northern America,2011,1.002
+,Central America,2011,0.935
+,Caribbean,2011,0.542
+,South America,2011,0.721
+,Asia,2011,0.701
+,Central Asia,2011,0.875
+,Eastern Asia,2011,0.775
+,Southern Asia,2011,0.679
+,South-Eastern Asia,2011,0.328
+,Western Asia,2011,0.766
+,Europe,2011,1.548
+,Eastern Europe,2011,1.613
+,Northern Europe,2011,1.187
+,Southern Europe,2011,1.266
+,Western Europe,2011,1.358
+,Oceania,2011,0.212
+,Australia and New Zealand,2011,0.192
+,Melanesia,2011,0.498
+,Micronesia,2011,0.429
+,Polynesia,2011,0.505
+,European Union,2011,1.143
+,Least Developed Countries,2011,0.959
+,Land Locked Developing Countries,2011,0.941
+,Small Island Developing States,2011,0.674
+,Low Income Food Deficit Countries,2011,0.872
+,Net Food Importing Developing Countries,2011,0.878
+,Annex I countries,2011,1.09
+,Non-Annex I countries,2011,0.801
+,OECD,2011,0.805
+AFG,Afghanistan,2012,0.102
+ALB,Albania,2012,1.603
+DZA,Algeria,2012,1.238
+ASM,American Samoa,2012,0.901
+AND,Andorra,2012,1.233
+AGO,Angola,2012,0.401
+AIA,Anguilla,2012,0.52
+ATA,Antarctica,2012,-0.216
+ATG,Antigua and Barbuda,2012,0.569
+ARG,Argentina,2012,0.748
+ARM,Armenia,2012,1.31
+ABW,Aruba,2012,0.565
+AUS,Australia,2012,0.273
+AUT,Austria,2012,1.788
+AZE,Azerbaijan,2012,1.534
+BHS,Bahamas,2012,0.382
+BHR,Bahrain,2012,1.363
+BGD,Bangladesh,2012,0.34
+BRB,Barbados,2012,0.75
+BLR,Belarus,2012,1.534
+BEL,Belgium,2012,1.132
+,Belgium-Luxembourg,2012,
+BLZ,Belize,2012,0.594
+BEN,Benin,2012,0.725
+BTN,Bhutan,2012,0.472
+BOL,Bolivia (Plurinational State of),2012,0.855
+BIH,Bosnia and Herzegovina,2012,1.804
+BWA,Botswana,2012,0.822
+BRA,Brazil,2012,1.118
+VGB,British Virgin Islands,2012,0.487
+BRN,Brunei Darussalam,2012,0.678
+BGR,Bulgaria,2012,1.634
+BFA,Burkina Faso,2012,0.461
+BDI,Burundi,2012,
+CPV,Cabo Verde,2012,0.746
+KHM,Cambodia,2012,0.788
+CMR,Cameroon,2012,0.539
+CAN,Canada,2012,2.14
+CYM,Cayman Islands,2012,0.507
+CAF,Central African Republic,2012,0.561
+TCD,Chad,2012,0.629
+CHA,Channel Islands,2012,0.813
+CHL,Chile,2012,0.577
+CHN,China,2012,0.626
+HKG,"China, Hong Kong SAR",2012,0.623
+MAC,"China, Macao SAR",2012,0.623
+,"China, mainland",2012,0.627
+TWN,"China, Taiwan Province of",2012,0.348
+CXR,Christmas Island,2012,0.496
+CCK,Cocos (Keeling) Islands,2012,0.801
+COL,Colombia,2012,0.698
+COM,Comoros,2012,0.778
+COG,Congo,2012,0.522
+COK,Cook Islands,2012,0.512
+CRI,Costa Rica,2012,0.287
+CIV,CÃ´te d'Ivoire,2012,0.629
+HRV,Croatia,2012,1.857
+CUB,Cuba,2012,0.507
+CYP,Cyprus,2012,0.94
+CZE,Czechia,2012,1.586
+,Czechoslovakia,2012,
+PRK,Democratic People's Republic of Korea,2012,0.384
+COD,Democratic Republic of the Congo,2012,0.469
+DNK,Denmark,2012,1.147
+DJI,Djibouti,2012,
+DMA,Dominica,2012,0.707
+DOM,Dominican Republic,2012,0.867
+ECU,Ecuador,2012,0.734
+EGY,Egypt,2012,0.863
+SLV,El Salvador,2012,0.753
+GNQ,Equatorial Guinea,2012,0.694
+ERI,Eritrea,2012,1.583
+EST,Estonia,2012,1.477
+SWZ,Eswatini,2012,0.695
+ETH,Ethiopia,2012,1.089
+,Ethiopia PDR,2012,
+FLK,Falkland Islands (Malvinas),2012,
+FRO,Faroe Islands,2012,0.346
+FJI,Fiji,2012,0.676
+FIN,Finland,2012,1.548
+FRA,France,2012,1.2
+,French Guiana,2012,1.047
+PYF,French Polynesia,2012,0.728
+,French Southern and Antarctic Territories,2012,0.921
+GAB,Gabon,2012,0.462
+GMB,Gambia,2012,1.145
+GEO,Georgia,2012,1.265
+DEU,Germany,2012,1.347
+GHA,Ghana,2012,0.584
+GIB,Gibraltar,2012,0.997
+GRC,Greece,2012,1.299
+GRL,Greenland,2012,1.626
+GRD,Grenada,2012,0.882
+GLP,Guadeloupe,2012,0.597
+GTM,Guatemala,2012,0.517
+GIN,Guinea,2012,0.668
+GNB,Guinea-Bissau,2012,1.242
+GUY,Guyana,2012,0.944
+HTI,Haiti,2012,0.835
+VAT,Holy See,2012,1.561
+HND,Honduras,2012,0.587
+HUN,Hungary,2012,1.749
+ISL,Iceland,2012,0.707
+IND,India,2012,0.364
+IDN,Indonesia,2012,0.446
+IRN,Iran (Islamic Republic of),2012,1.04
+IRQ,Iraq,2012,1.199
+IRL,Ireland,2012,0.706
+IMN,Isle of Man,2012,0.616
+ISR,Israel,2012,0.976
+ITA,Italy,2012,1.552
+JAM,Jamaica,2012,0.751
+JPN,Japan,2012,0.371
+JOR,Jordan,2012,1.044
+KAZ,Kazakhstan,2012,1.163
+KEN,Kenya,2012,1.04
+KIR,Kiribati,2012,0.826
+KWT,Kuwait,2012,1.601
+KGZ,Kyrgyzstan,2012,0.267
+LAO,Lao People's Democratic Republic,2012,0.912
+LVA,Latvia,2012,1.396
+LBN,Lebanon,2012,1.072
+LSO,Lesotho,2012,0.68
+LBR,Liberia,2012,0.749
+LBY,Libya,2012,0.803
+LIE,Liechtenstein,2012,1.628
+LTU,Lithuania,2012,1.349
+LUX,Luxembourg,2012,1.255
+MDG,Madagascar,2012,0.746
+MWI,Malawi,2012,1.097
+MYS,Malaysia,2012,0.752
+MDV,Maldives,2012,0.599
+MLI,Mali,2012,0.432
+MLT,Malta,2012,1.478
+MHL,Marshall Islands,2012,0.356
+MTQ,Martinique,2012,0.726
+MRT,Mauritania,2012,0.8
+MUS,Mauritius,2012,0.665
+MYT,Mayotte,2012,0.812
+MEX,Mexico,2012,0.902
+FSM,Micronesia (Federated States of),2012,0.446
+MID,Midway Island,2012,
+MCO,Monaco,2012,1.379
+MNG,Mongolia,2012,0.253
+MNE,Montenegro,2012,1.703
+MSR,Montserrat,2012,0.569
+MAR,Morocco,2012,1.567
+MOZ,Mozambique,2012,0.722
+MMR,Myanmar,2012,0.869
+NAM,Namibia,2012,0.119
+NRU,Nauru,2012,
+NPL,Nepal,2012,0.503
+NLD,Netherlands,2012,1.141
+ANT,Netherlands Antilles (former),2012,0.508
+NCL,New Caledonia,2012,0.462
+NZL,New Zealand,2012,0.121
+NIC,Nicaragua,2012,0.583
+NER,Niger,2012,0.823
+NGA,Nigeria,2012,0.662
+NIU,Niue,2012,
+NFK,Norfolk Island,2012,0.231
+MKD,North Macedonia,2012,1.476
+NOR,Norway,2012,1.067
+OMN,Oman,2012,0.788
+,Pacific Islands Trust Territory,2012,
+PAK,Pakistan,2012,0.108
+PLW,Palau,2012,
+PSE,Palestine,2012,0.989
+PAN,Panama,2012,0.556
+PNG,Papua New Guinea,2012,0.303
+PRY,Paraguay,2012,0.929
+PER,Peru,2012,0.998
+PHL,Philippines,2012,0.772
+,Pitcairn Islands,2012,
+POL,Poland,2012,1.38
+PRT,Portugal,2012,0.798
+PRI,Puerto Rico,2012,0.65
+QAT,Qatar,2012,1.398
+KOR,Republic of Korea,2012,0.337
+MDA,Republic of Moldova,2012,1.974
+REU,RÃ©union,2012,0.751
+ROU,Romania,2012,1.785
+RUS,Russian Federation,2012,1.933
+RWA,Rwanda,2012,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2012,1.293
+KNA,Saint Kitts and Nevis,2012,0.569
+LCA,Saint Lucia,2012,0.795
+SPM,Saint Pierre and Miquelon,2012,1.979
+VCT,Saint Vincent and the Grenadines,2012,0.882
+WSM,Samoa,2012,0.883
+SMR,San Marino,2012,1.703
+STP,Sao Tome and Principe,2012,0.791
+SAU,Saudi Arabia,2012,1.239
+SEN,Senegal,2012,0.832
+SRB,Serbia,2012,1.71
+SCG,Serbia and Montenegro,2012,
+SYC,Seychelles,2012,0.893
+SLE,Sierra Leone,2012,0.686
+SGP,Singapore,2012,
+SVK,Slovakia,2012,1.597
+SVN,Slovenia,2012,1.958
+SLB,Solomon Islands,2012,1.381
+SOM,Somalia,2012,1.218
+ZAF,South Africa,2012,0.644
+SGS,South Georgia and the South Sandwich Islands,2012,-0.159
+SSD,South Sudan,2012,1.274
+ESP,Spain,2012,0.996
+LKA,Sri Lanka,2012,0.943
+SDN,Sudan,2012,1.123
+,Sudan (former),2012,
+SUR,Suriname,2012,1.121
+SJM,Svalbard and Jan Mayen Islands,2012,3.825
+SWE,Sweden,2012,1.318
+CHE,Switzerland,2012,1.513
+SYR,Syrian Arab Republic,2012,1.075
+TJK,Tajikistan,2012,-0.149
+THA,Thailand,2012,0.86
+TLS,Timor-Leste,2012,
+TGO,Togo,2012,0.709
+TKL,Tokelau,2012,
+TON,Tonga,2012,0.999
+TTO,Trinidad and Tobago,2012,0.974
+TUN,Tunisia,2012,1.831
+TUR,Turkey,2012,0.966
+TKM,Turkmenistan,2012,0.827
+TCA,Turks and Caicos Islands,2012,0.939
+TUV,Tuvalu,2012,0.715
+UGA,Uganda,2012,1.066
+UKR,Ukraine,2012,1.935
+ARE,United Arab Emirates,2012,1.036
+,United Kingdom,2012,0.566
+TZA,United Republic of Tanzania,2012,1.002
+USA,United States of America,2012,1.437
+VIR,United States Virgin Islands,2012,0.502
+URY,Uruguay,2012,0.814
+,USSR,2012,
+UZB,Uzbekistan,2012,0.664
+VUT,Vanuatu,2012,0.639
+VEN,Venezuela (Bolivarian Republic of),2012,0.59
+VNM,Viet Nam,2012,0.754
+WAK,Wake Island,2012,0.235
+WLF,Wallis and Futuna Islands,2012,0.865
+ESH,Western Sahara,2012,1.343
+YEM,Yemen,2012,
+,Yugoslav SFR,2012,
+ZMB,Zambia,2012,1.139
+ZWE,Zimbabwe,2012,0.614
+X01,World,2012,1.081
+X06,Africa,2012,0.781
+,Eastern Africa,2012,0.99
+,Middle Africa,2012,0.504
+,Northern Africa,2012,1.094
+,Southern Africa,2012,0.522
+,Western Africa,2012,0.672
+X21,Americas,2012,1.352
+,Northern America,2012,1.786
+,Central America,2012,0.827
+,Caribbean,2012,0.647
+,South America,2012,0.943
+,Asia,2012,0.693
+,Central Asia,2012,0.975
+,Eastern Asia,2012,0.563
+,Southern Asia,2012,0.49
+,South-Eastern Asia,2012,0.663
+,Western Asia,2012,1.143
+,Europe,2012,1.789
+,Eastern Europe,2012,1.913
+,Northern Europe,2012,1.15
+,Southern Europe,2012,1.314
+,Western Europe,2012,1.3
+,Oceania,2012,0.276
+,Australia and New Zealand,2012,0.268
+,Melanesia,2012,0.386
+,Micronesia,2012,0.619
+,Polynesia,2012,0.807
+,European Union,2012,1.315
+,Least Developed Countries,2012,0.711
+,Land Locked Developing Countries,2012,0.759
+,Small Island Developing States,2012,0.666
+,Low Income Food Deficit Countries,2012,0.618
+,Net Food Importing Developing Countries,2012,0.692
+,Annex I countries,2012,1.512
+,Non-Annex I countries,2012,0.768
+,OECD,2012,1.274
+AFG,Afghanistan,2013,1.237
+ALB,Albania,2013,1.495
+DZA,Algeria,2013,1.267
+ASM,American Samoa,2013,1.159
+AND,Andorra,2013,0.794
+AGO,Angola,2013,0.91
+AIA,Anguilla,2013,0.631
+ATA,Antarctica,2013,1.738
+ATG,Antigua and Barbuda,2013,0.678
+ARG,Argentina,2013,0.394
+ARM,Armenia,2013,1.463
+ABW,Aruba,2013,1.018
+AUS,Australia,2013,1.45
+AUT,Austria,2013,1.098
+AZE,Azerbaijan,2013,1.626
+BHS,Bahamas,2013,0.588
+BHR,Bahrain,2013,1.487
+BGD,Bangladesh,2013,0.375
+BRB,Barbados,2013,0.965
+BLR,Belarus,2013,1.184
+BEL,Belgium,2013,0.467
+,Belgium-Luxembourg,2013,
+BLZ,Belize,2013,0.74
+BEN,Benin,2013,0.989
+BTN,Bhutan,2013,0.87
+BOL,Bolivia (Plurinational State of),2013,0.63
+BIH,Bosnia and Herzegovina,2013,1.368
+BWA,Botswana,2013,1.071
+BRA,Brazil,2013,1.06
+VGB,British Virgin Islands,2013,0.595
+BRN,Brunei Darussalam,2013,0.846
+BGR,Bulgaria,2013,1.438
+BFA,Burkina Faso,2013,0.824
+BDI,Burundi,2013,
+CPV,Cabo Verde,2013,1.166
+KHM,Cambodia,2013,0.947
+CMR,Cameroon,2013,0.789
+CAN,Canada,2013,1.186
+CYM,Cayman Islands,2013,0.663
+CAF,Central African Republic,2013,0.835
+TCD,Chad,2013,1.099
+CHA,Channel Islands,2013,0.595
+CHL,Chile,2013,0.316
+CHN,China,2013,1.082
+HKG,"China, Hong Kong SAR",2013,0.862
+MAC,"China, Macao SAR",2013,0.862
+,"China, mainland",2013,1.084
+TWN,"China, Taiwan Province of",2013,0.664
+CXR,Christmas Island,2013,0.99
+CCK,Cocos (Keeling) Islands,2013,0.875
+COL,Colombia,2013,0.842
+COM,Comoros,2013,1.016
+COG,Congo,2013,0.808
+COK,Cook Islands,2013,0.72
+CRI,Costa Rica,2013,0.774
+CIV,CÃ´te d'Ivoire,2013,0.913
+HRV,Croatia,2013,1.278
+CUB,Cuba,2013,0.739
+CYP,Cyprus,2013,1.211
+CZE,Czechia,2013,0.783
+,Czechoslovakia,2013,
+PRK,Democratic People's Republic of Korea,2013,0.263
+COD,Democratic Republic of the Congo,2013,0.755
+DNK,Denmark,2013,0.401
+DJI,Djibouti,2013,1.336
+DMA,Dominica,2013,0.712
+DOM,Dominican Republic,2013,1.156
+ECU,Ecuador,2013,0.707
+EGY,Egypt,2013,0.969
+SLV,El Salvador,2013,0.761
+GNQ,Equatorial Guinea,2013,0.802
+ERI,Eritrea,2013,1.339
+EST,Estonia,2013,1.188
+SWZ,Eswatini,2013,0.437
+ETH,Ethiopia,2013,1.218
+,Ethiopia PDR,2013,
+FLK,Falkland Islands (Malvinas),2013,
+FRO,Faroe Islands,2013,0.574
+FJI,Fiji,2013,1.067
+FIN,Finland,2013,1.427
+FRA,France,2013,0.695
+,French Guiana,2013,1.17
+PYF,French Polynesia,2013,0.544
+,French Southern and Antarctic Territories,2013,0.375
+GAB,Gabon,2013,0.721
+GMB,Gambia,2013,1.253
+GEO,Georgia,2013,1.438
+DEU,Germany,2013,0.58
+GHA,Ghana,2013,0.827
+GIB,Gibraltar,2013,0.95
+GRC,Greece,2013,1.394
+GRL,Greenland,2013,1.377
+GRD,Grenada,2013,1.059
+GLP,Guadeloupe,2013,0.668
+GTM,Guatemala,2013,0.702
+GIN,Guinea,2013,1.152
+GNB,Guinea-Bissau,2013,1.504
+GUY,Guyana,2013,1.012
+HTI,Haiti,2013,1.081
+VAT,Holy See,2013,0.93
+HND,Honduras,2013,0.865
+HUN,Hungary,2013,1.177
+ISL,Iceland,2013,0.697
+IND,India,2013,0.307
+IDN,Indonesia,2013,0.778
+IRN,Iran (Islamic Republic of),2013,1.579
+IRQ,Iraq,2013,1.157
+IRL,Ireland,2013,0.628
+IMN,Isle of Man,2013,0.457
+ISR,Israel,2013,1.058
+ITA,Italy,2013,1.015
+JAM,Jamaica,2013,1.018
+JPN,Japan,2013,0.598
+JOR,Jordan,2013,1.016
+KAZ,Kazakhstan,2013,1.636
+KEN,Kenya,2013,0.951
+KIR,Kiribati,2013,1.026
+KWT,Kuwait,2013,1.399
+KGZ,Kyrgyzstan,2013,1.394
+LAO,Lao People's Democratic Republic,2013,1.092
+LVA,Latvia,2013,1.074
+LBN,Lebanon,2013,1.291
+LSO,Lesotho,2013,0.586
+LBR,Liberia,2013,0.859
+LBY,Libya,2013,1.234
+LIE,Liechtenstein,2013,0.936
+LTU,Lithuania,2013,0.953
+LUX,Luxembourg,2013,0.565
+MDG,Madagascar,2013,0.646
+MWI,Malawi,2013,0.92
+MYS,Malaysia,2013,0.962
+MDV,Maldives,2013,0.66
+MLI,Mali,2013,0.985
+MLT,Malta,2013,1.371
+MHL,Marshall Islands,2013,0.349
+MTQ,Martinique,2013,0.739
+MRT,Mauritania,2013,1.358
+MUS,Mauritius,2013,0.966
+MYT,Mayotte,2013,0.901
+MEX,Mexico,2013,0.748
+FSM,Micronesia (Federated States of),2013,0.553
+MID,Midway Island,2013,
+MCO,Monaco,2013,0.71
+MNG,Mongolia,2013,1.045
+MNE,Montenegro,2013,1.507
+MSR,Montserrat,2013,0.678
+MAR,Morocco,2013,1.5
+MOZ,Mozambique,2013,0.492
+MMR,Myanmar,2013,0.943
+NAM,Namibia,2013,1.016
+NRU,Nauru,2013,
+NPL,Nepal,2013,0.252
+NLD,Netherlands,2013,0.421
+ANT,Netherlands Antilles (former),2013,0.924
+NCL,New Caledonia,2013,0.511
+NZL,New Zealand,2013,0.995
+NIC,Nicaragua,2013,1.065
+NER,Niger,2013,1.041
+NGA,Nigeria,2013,1.057
+NIU,Niue,2013,
+NFK,Norfolk Island,2013,0.283
+MKD,North Macedonia,2013,1.479
+NOR,Norway,2013,0.797
+OMN,Oman,2013,0.453
+,Pacific Islands Trust Territory,2013,
+PAK,Pakistan,2013,0.712
+PLW,Palau,2013,0.611
+PSE,Palestine,2013,1.069
+PAN,Panama,2013,0.878
+PNG,Papua New Guinea,2013,0.793
+PRY,Paraguay,2013,0.485
+PER,Peru,2013,0.788
+PHL,Philippines,2013,0.872
+,Pitcairn Islands,2013,
+POL,Poland,2013,0.647
+PRT,Portugal,2013,0.952
+PRI,Puerto Rico,2013,0.622
+QAT,Qatar,2013,1.262
+KOR,Republic of Korea,2013,0.441
+MDA,Republic of Moldova,2013,1.242
+REU,RÃ©union,2013,0.63
+ROU,Romania,2013,1.333
+RUS,Russian Federation,2013,1.171
+RWA,Rwanda,2013,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2013,1.277
+KNA,Saint Kitts and Nevis,2013,0.678
+LCA,Saint Lucia,2013,0.901
+SPM,Saint Pierre and Miquelon,2013,1.304
+VCT,Saint Vincent and the Grenadines,2013,1.059
+WSM,Samoa,2013,1.141
+SMR,San Marino,2013,1.013
+STP,Sao Tome and Principe,2013,0.809
+SAU,Saudi Arabia,2013,1.216
+SEN,Senegal,2013,1.177
+SRB,Serbia,2013,1.436
+SCG,Serbia and Montenegro,2013,
+SYC,Seychelles,2013,0.744
+SLE,Sierra Leone,2013,1.008
+SGP,Singapore,2013,
+SVK,Slovakia,2013,0.976
+SVN,Slovenia,2013,1.256
+SLB,Solomon Islands,2013,1.411
+SOM,Somalia,2013,1.317
+ZAF,South Africa,2013,0.719
+SGS,South Georgia and the South Sandwich Islands,2013,-0.423
+SSD,South Sudan,2013,1.331
+ESP,Spain,2013,0.863
+LKA,Sri Lanka,2013,0.875
+SDN,Sudan,2013,1.264
+,Sudan (former),2013,
+SUR,Suriname,2013,1.238
+SJM,Svalbard and Jan Mayen Islands,2013,2.272
+SWE,Sweden,2013,0.86
+CHE,Switzerland,2013,0.782
+SYR,Syrian Arab Republic,2013,1.401
+TJK,Tajikistan,2013,1.19
+THA,Thailand,2013,1.066
+TLS,Timor-Leste,2013,0.515
+TGO,Togo,2013,0.9
+TKL,Tokelau,2013,
+TON,Tonga,2013,1.133
+TTO,Trinidad and Tobago,2013,0.942
+TUN,Tunisia,2013,1.63
+TUR,Turkey,2013,1.345
+TKM,Turkmenistan,2013,1.706
+TCA,Turks and Caicos Islands,2013,1.265
+TUV,Tuvalu,2013,0.786
+UGA,Uganda,2013,1.049
+UKR,Ukraine,2013,1.485
+ARE,United Arab Emirates,2013,0.64
+,United Kingdom,2013,0.364
+TZA,United Republic of Tanzania,2013,1.041
+USA,United States of America,2013,0.597
+VIR,United States Virgin Islands,2013,0.584
+URY,Uruguay,2013,0.106
+,USSR,2013,
+UZB,Uzbekistan,2013,1.522
+VUT,Vanuatu,2013,0.975
+VEN,Venezuela (Bolivarian Republic of),2013,0.982
+VNM,Viet Nam,2013,0.926
+WAK,Wake Island,2013,0.849
+WLF,Wallis and Futuna Islands,2013,0.943
+ESH,Western Sahara,2013,1.389
+YEM,Yemen,2013,
+,Yugoslav SFR,2013,
+ZMB,Zambia,2013,1.114
+ZWE,Zimbabwe,2013,0.427
+X01,World,2013,1.021
+X06,Africa,2013,1.014
+,Eastern Africa,2013,0.96
+,Middle Africa,2013,0.863
+,Northern Africa,2013,1.24
+,Southern Africa,2013,0.884
+,Western Africa,2013,1.067
+X21,Americas,2013,0.864
+,Northern America,2013,0.902
+,Central America,2013,0.772
+,Caribbean,2013,0.874
+,South America,2013,0.834
+,Asia,2013,1.054
+,Central Asia,2013,1.604
+,Eastern Asia,2013,1.048
+,Southern Asia,2013,0.774
+,South-Eastern Asia,2013,0.889
+,Western Asia,2013,1.183
+,Europe,2013,1.118
+,Eastern Europe,2013,1.174
+,Northern Europe,2013,0.866
+,Southern Europe,2013,1.077
+,Western Europe,2013,0.675
+,Oceania,2013,1.396
+,Australia and New Zealand,2013,1.435
+,Melanesia,2013,0.83
+,Micronesia,2013,0.727
+,Polynesia,2013,0.832
+,European Union,2013,0.901
+,Least Developed Countries,2013,0.982
+,Land Locked Developing Countries,2013,1.133
+,Small Island Developing States,2013,0.939
+,Low Income Food Deficit Countries,2013,0.875
+,Net Food Importing Developing Countries,2013,0.977
+,Annex I countries,2013,1.109
+,Non-Annex I countries,2013,0.955
+,OECD,2013,0.991
+AFG,Afghanistan,2014,0.474
+ALB,Albania,2014,1.399
+DZA,Algeria,2014,1.774
+ASM,American Samoa,2014,1.086
+AND,Andorra,2014,1.899
+AGO,Angola,2014,0.726
+AIA,Anguilla,2014,0.659
+ATA,Antarctica,2014,0.546
+ATG,Antigua and Barbuda,2014,0.629
+ARG,Argentina,2014,0.912
+ARM,Armenia,2014,1.342
+ABW,Aruba,2014,0.799
+AUS,Australia,2014,1.139
+AUT,Austria,2014,2.404
+AZE,Azerbaijan,2014,1.29
+BHS,Bahamas,2014,0.875
+BHR,Bahrain,2014,1.89
+BGD,Bangladesh,2014,0.648
+BRB,Barbados,2014,0.626
+BLR,Belarus,2014,2.15
+BEL,Belgium,2014,2.428
+,Belgium-Luxembourg,2014,
+BLZ,Belize,2014,0.744
+BEN,Benin,2014,1.089
+BTN,Bhutan,2014,1.012
+BOL,Bolivia (Plurinational State of),2014,1.019
+BIH,Bosnia and Herzegovina,2014,1.873
+BWA,Botswana,2014,0.18
+BRA,Brazil,2014,1.293
+VGB,British Virgin Islands,2014,0.683
+BRN,Brunei Darussalam,2014,0.785
+BGR,Bulgaria,2014,1.189
+BFA,Burkina Faso,2014,0.877
+BDI,Burundi,2014,
+CPV,Cabo Verde,2014,0.92
+KHM,Cambodia,2014,0.54
+CMR,Cameroon,2014,0.895
+CAN,Canada,2014,0.273
+CYM,Cayman Islands,2014,0.87
+CAF,Central African Republic,2014,0.702
+TCD,Chad,2014,0.956
+CHA,Channel Islands,2014,1.808
+CHL,Chile,2014,0.378
+CHN,China,2014,1.069
+HKG,"China, Hong Kong SAR",2014,0.761
+MAC,"China, Macao SAR",2014,0.761
+,"China, mainland",2014,1.071
+TWN,"China, Taiwan Province of",2014,0.649
+CXR,Christmas Island,2014,0.91
+CCK,Cocos (Keeling) Islands,2014,0.86
+COL,Colombia,2014,0.797
+COM,Comoros,2014,1.137
+COG,Congo,2014,0.742
+COK,Cook Islands,2014,
+CRI,Costa Rica,2014,0.69
+CIV,CÃ´te d'Ivoire,2014,0.806
+HRV,Croatia,2014,2.039
+CUB,Cuba,2014,0.913
+CYP,Cyprus,2014,1.074
+CZE,Czechia,2014,2.51
+,Czechoslovakia,2014,
+PRK,Democratic People's Republic of Korea,2014,1.431
+COD,Democratic Republic of the Congo,2014,0.769
+DNK,Denmark,2014,2.68
+DJI,Djibouti,2014,1.147
+DMA,Dominica,2014,0.713
+DOM,Dominican Republic,2014,1.095
+ECU,Ecuador,2014,0.989
+EGY,Egypt,2014,1.161
+SLV,El Salvador,2014,0.666
+GNQ,Equatorial Guinea,2014,0.906
+ERI,Eritrea,2014,1.003
+EST,Estonia,2014,2.441
+SWZ,Eswatini,2014,0.516
+ETH,Ethiopia,2014,1.139
+,Ethiopia PDR,2014,
+FLK,Falkland Islands (Malvinas),2014,
+FRO,Faroe Islands,2014,1.728
+FJI,Fiji,2014,0.881
+FIN,Finland,2014,2.602
+FRA,France,2014,2.027
+,French Guiana,2014,1.248
+PYF,French Polynesia,2014,0.606
+,French Southern and Antarctic Territories,2014,-0.048
+GAB,Gabon,2014,0.761
+GMB,Gambia,2014,1.476
+GEO,Georgia,2014,1.244
+DEU,Germany,2014,2.516
+GHA,Ghana,2014,0.862
+GIB,Gibraltar,2014,1.551
+GRC,Greece,2014,1.116
+GRL,Greenland,2014,1.423
+GRD,Grenada,2014,0.928
+GLP,Guadeloupe,2014,0.676
+GTM,Guatemala,2014,0.598
+GIN,Guinea,2014,1.091
+GNB,Guinea-Bissau,2014,1.717
+GUY,Guyana,2014,1.364
+HTI,Haiti,2014,1.204
+VAT,Holy See,2014,1.487
+HND,Honduras,2014,0.664
+HUN,Hungary,2014,2.236
+ISL,Iceland,2014,1.618
+IND,India,2014,0.419
+IDN,Indonesia,2014,0.745
+IRN,Iran (Islamic Republic of),2014,1.03
+IRQ,Iraq,2014,1.104
+IRL,Ireland,2014,1.363
+IMN,Isle of Man,2014,1.519
+ISR,Israel,2014,0.759
+ITA,Italy,2014,1.661
+JAM,Jamaica,2014,1.239
+JPN,Japan,2014,0.532
+JOR,Jordan,2014,0.802
+KAZ,Kazakhstan,2014,0.682
+KEN,Kenya,2014,1.035
+KIR,Kiribati,2014,1.165
+KWT,Kuwait,2014,1.512
+KGZ,Kyrgyzstan,2014,0.534
+LAO,Lao People's Democratic Republic,2014,0.662
+LVA,Latvia,2014,2.313
+LBN,Lebanon,2014,1.081
+LSO,Lesotho,2014,0.653
+LBR,Liberia,2014,0.833
+LBY,Libya,2014,1.262
+LIE,Liechtenstein,2014,2.217
+LTU,Lithuania,2014,2.217
+LUX,Luxembourg,2014,2.482
+MDG,Madagascar,2014,0.776
+MWI,Malawi,2014,1.154
+MYS,Malaysia,2014,0.951
+MDV,Maldives,2014,0.735
+MLI,Mali,2014,0.851
+MLT,Malta,2014,1.571
+MHL,Marshall Islands,2014,0.412
+MTQ,Martinique,2014,0.711
+MRT,Mauritania,2014,1.254
+MUS,Mauritius,2014,1.127
+MYT,Mayotte,2014,1.116
+MEX,Mexico,2014,0.853
+FSM,Micronesia (Federated States of),2014,0.374
+MID,Midway Island,2014,
+MCO,Monaco,2014,1.787
+MNG,Mongolia,2014,1.909
+MNE,Montenegro,2014,1.593
+MSR,Montserrat,2014,0.629
+MAR,Morocco,2014,1.874
+MOZ,Mozambique,2014,0.671
+MMR,Myanmar,2014,0.846
+NAM,Namibia,2014,0.63
+NRU,Nauru,2014,
+NPL,Nepal,2014,0.379
+NLD,Netherlands,2014,2.558
+ANT,Netherlands Antilles (former),2014,0.839
+NCL,New Caledonia,2014,0.585
+NZL,New Zealand,2014,0.535
+NIC,Nicaragua,2014,0.806
+NER,Niger,2014,1.228
+NGA,Nigeria,2014,1.14
+NIU,Niue,2014,
+NFK,Norfolk Island,2014,0.126
+MKD,North Macedonia,2014,1.354
+NOR,Norway,2014,2.413
+OMN,Oman,2014,0.499
+,Pacific Islands Trust Territory,2014,
+PAK,Pakistan,2014,0.32
+PLW,Palau,2014,0.665
+PSE,Palestine,2014,0.75
+PAN,Panama,2014,0.836
+PNG,Papua New Guinea,2014,0.481
+PRY,Paraguay,2014,1.293
+PER,Peru,2014,0.997
+PHL,Philippines,2014,0.725
+,Pitcairn Islands,2014,
+POL,Poland,2014,2.354
+PRT,Portugal,2014,1.399
+PRI,Puerto Rico,2014,0.729
+QAT,Qatar,2014,1.673
+KOR,Republic of Korea,2014,0.878
+MDA,Republic of Moldova,2014,1.335
+REU,RÃ©union,2014,1.016
+ROU,Romania,2014,1.518
+RUS,Russian Federation,2014,1.724
+RWA,Rwanda,2014,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2014,1.36
+KNA,Saint Kitts and Nevis,2014,0.629
+LCA,Saint Lucia,2014,0.783
+SPM,Saint Pierre and Miquelon,2014,0.418
+VCT,Saint Vincent and the Grenadines,2014,0.928
+WSM,Samoa,2014,1.038
+SMR,San Marino,2014,1.61
+STP,Sao Tome and Principe,2014,0.918
+SAU,Saudi Arabia,2014,1.276
+SEN,Senegal,2014,1.135
+SRB,Serbia,2014,1.636
+SCG,Serbia and Montenegro,2014,
+SYC,Seychelles,2014,0.935
+SLE,Sierra Leone,2014,1.093
+SGP,Singapore,2014,
+SVK,Slovakia,2014,2.35
+SVN,Slovenia,2014,2.442
+SLB,Solomon Islands,2014,1.396
+SOM,Somalia,2014,1.355
+ZAF,South Africa,2014,0.805
+SGS,South Georgia and the South Sandwich Islands,2014,-0.162
+SSD,South Sudan,2014,0.953
+ESP,Spain,2014,1.558
+LKA,Sri Lanka,2014,0.991
+SDN,Sudan,2014,1.021
+,Sudan (former),2014,
+SUR,Suriname,2014,1.435
+SJM,Svalbard and Jan Mayen Islands,2014,3.382
+SWE,Sweden,2014,2.704
+CHE,Switzerland,2014,2.15
+SYR,Syrian Arab Republic,2014,1.217
+TJK,Tajikistan,2014,0.485
+THA,Thailand,2014,0.638
+TLS,Timor-Leste,2014,0.6
+TGO,Togo,2014,1.07
+TKL,Tokelau,2014,
+TON,Tonga,2014,1.003
+TTO,Trinidad and Tobago,2014,1.184
+TUN,Tunisia,2014,1.953
+TUR,Turkey,2014,1.3
+TKM,Turkmenistan,2014,0.776
+TCA,Turks and Caicos Islands,2014,1.224
+TUV,Tuvalu,2014,0.749
+UGA,Uganda,2014,1.095
+UKR,Ukraine,2014,1.67
+ARE,United Arab Emirates,2014,0.85
+,United Kingdom,2014,1.722
+TZA,United Republic of Tanzania,2014,1.071
+USA,United States of America,2014,0.463
+VIR,United States Virgin Islands,2014,0.693
+URY,Uruguay,2014,1.129
+,USSR,2014,
+UZB,Uzbekistan,2014,0.167
+VUT,Vanuatu,2014,0.869
+VEN,Venezuela (Bolivarian Republic of),2014,1.002
+VNM,Viet Nam,2014,0.567
+WAK,Wake Island,2014,1.002
+WLF,Wallis and Futuna Islands,2014,0.903
+ESH,Western Sahara,2014,1.341
+YEM,Yemen,2014,
+,Yugoslav SFR,2014,
+ZMB,Zambia,2014,0.967
+ZWE,Zimbabwe,2014,0.291
+X01,World,2014,1.052
+X06,Africa,2014,1.036
+,Eastern Africa,2014,0.971
+,Middle Africa,2014,0.799
+,Northern Africa,2014,1.515
+,Southern Africa,2014,0.611
+,Western Africa,2014,1.073
+X21,Americas,2014,0.733
+,Northern America,2014,0.389
+,Central America,2014,0.824
+,Caribbean,2014,0.993
+,South America,2014,1.105
+,Asia,2014,0.909
+,Central Asia,2014,0.621
+,Eastern Asia,2014,1.166
+,Southern Asia,2014,0.581
+,South-Eastern Asia,2014,0.736
+,Western Asia,2014,1.183
+,Europe,2014,1.807
+,Eastern Europe,2014,1.738
+,Northern Europe,2014,2.346
+,Southern Europe,2014,1.582
+,Western Europe,2014,2.25
+,Oceania,2014,1.083
+,Australia and New Zealand,2014,1.119
+,Melanesia,2014,0.556
+,Micronesia,2014,0.737
+,Polynesia,2014,0.815
+,European Union,2014,2.057
+,Least Developed Countries,2014,0.921
+,Land Locked Developing Countries,2014,0.927
+,Small Island Developing States,2014,0.936
+,Low Income Food Deficit Countries,2014,0.82
+,Net Food Importing Developing Countries,2014,0.971
+,Annex I countries,2014,1.119
+,Non-Annex I countries,2014,1.003
+,OECD,2014,0.811
+AFG,Afghanistan,2015,1.096
+ALB,Albania,2015,1.725
+DZA,Algeria,2015,1.224
+ASM,American Samoa,2015,0.885
+AND,Andorra,2015,1.619
+AGO,Angola,2015,1.26
+AIA,Anguilla,2015,0.916
+ATA,Antarctica,2015,-0.095
+ATG,Antigua and Barbuda,2015,0.925
+ARG,Argentina,2015,0.91
+ARM,Armenia,2015,1.979
+ABW,Aruba,2015,1.601
+AUS,Australia,2015,1.051
+AUT,Austria,2015,2.153
+AZE,Azerbaijan,2015,1.698
+BHS,Bahamas,2015,1.103
+BHR,Bahrain,2015,2.441
+BGD,Bangladesh,2015,0.808
+BRB,Barbados,2015,1.098
+BLR,Belarus,2015,2.23
+BEL,Belgium,2015,1.37
+,Belgium-Luxembourg,2015,
+BLZ,Belize,2015,1.273
+BEN,Benin,2015,1.265
+BTN,Bhutan,2015,1.119
+BOL,Bolivia (Plurinational State of),2015,1.57
+BIH,Bosnia and Herzegovina,2015,1.845
+BWA,Botswana,2015,1.76
+BRA,Brazil,2015,1.697
+VGB,British Virgin Islands,2015,0.91
+BRN,Brunei Darussalam,2015,1.004
+BGR,Bulgaria,2015,1.438
+BFA,Burkina Faso,2015,1.118
+BDI,Burundi,2015,
+CPV,Cabo Verde,2015,0.906
+KHM,Cambodia,2015,1.061
+CMR,Cameroon,2015,1.183
+CAN,Canada,2015,1.198
+CYM,Cayman Islands,2015,1.111
+CAF,Central African Republic,2015,0.986
+TCD,Chad,2015,1.438
+CHA,Channel Islands,2015,1.164
+CHL,Chile,2015,0.701
+CHN,China,2015,1.286
+HKG,"China, Hong Kong SAR",2015,1.243
+MAC,"China, Macao SAR",2015,1.243
+,"China, mainland",2015,1.288
+TWN,"China, Taiwan Province of",2015,0.662
+CXR,Christmas Island,2015,0.965
+CCK,Cocos (Keeling) Islands,2015,0.93
+COL,Colombia,2015,1.23
+COM,Comoros,2015,1.353
+COG,Congo,2015,1.038
+COK,Cook Islands,2015,
+CRI,Costa Rica,2015,0.842
+CIV,CÃ´te d'Ivoire,2015,1.281
+HRV,Croatia,2015,1.922
+CUB,Cuba,2015,1.178
+CYP,Cyprus,2015,1.2
+CZE,Czechia,2015,2.122
+,Czechoslovakia,2015,
+PRK,Democratic People's Republic of Korea,2015,1.109
+COD,Democratic Republic of the Congo,2015,0.862
+DNK,Denmark,2015,1.514
+DJI,Djibouti,2015,1.722
+DMA,Dominica,2015,0.919
+DOM,Dominican Republic,2015,1.378
+ECU,Ecuador,2015,1.369
+EGY,Egypt,2015,1.114
+SLV,El Salvador,2015,1.228
+GNQ,Equatorial Guinea,2015,0.892
+ERI,Eritrea,2015,1.926
+EST,Estonia,2015,2.393
+SWZ,Eswatini,2015,1.049
+ETH,Ethiopia,2015,1.447
+,Ethiopia PDR,2015,
+FLK,Falkland Islands (Malvinas),2015,
+FRO,Faroe Islands,2015,0.765
+FJI,Fiji,2015,0.8
+FIN,Finland,2015,2.624
+FRA,France,2015,1.579
+,French Guiana,2015,1.345
+PYF,French Polynesia,2015,0.682
+,French Southern and Antarctic Territories,2015,0.739
+GAB,Gabon,2015,0.905
+GMB,Gambia,2015,1.516
+GEO,Georgia,2015,1.767
+DEU,Germany,2015,1.671
+GHA,Ghana,2015,1.135
+GIB,Gibraltar,2015,1.483
+GRC,Greece,2015,0.964
+GRL,Greenland,2015,0.223
+GRD,Grenada,2015,1.091
+GLP,Guadeloupe,2015,0.918
+GTM,Guatemala,2015,1.15
+GIN,Guinea,2015,1.31
+GNB,Guinea-Bissau,2015,1.69
+GUY,Guyana,2015,1.624
+HTI,Haiti,2015,1.355
+VAT,Holy See,2015,1.659
+HND,Honduras,2015,1.122
+HUN,Hungary,2015,2.086
+ISL,Iceland,2015,0.377
+IND,India,2015,0.576
+IDN,Indonesia,2015,0.734
+IRN,Iran (Islamic Republic of),2015,1.814
+IRQ,Iraq,2015,1.866
+IRL,Ireland,2015,0.429
+IMN,Isle of Man,2015,0.416
+ISR,Israel,2015,1.236
+ITA,Italy,2015,1.744
+JAM,Jamaica,2015,1.321
+JPN,Japan,2015,0.812
+JOR,Jordan,2015,1.455
+KAZ,Kazakhstan,2015,1.612
+KEN,Kenya,2015,1.207
+KIR,Kiribati,2015,1.3
+KWT,Kuwait,2015,2.177
+KGZ,Kyrgyzstan,2015,1.504
+LAO,Lao People's Democratic Republic,2015,1.349
+LVA,Latvia,2015,2.165
+LBN,Lebanon,2015,1.431
+LSO,Lesotho,2015,1.171
+LBR,Liberia,2015,1.24
+LBY,Libya,2015,0.764
+LIE,Liechtenstein,2015,2.022
+LTU,Lithuania,2015,2.092
+LUX,Luxembourg,2015,1.54
+MDG,Madagascar,2015,1.093
+MWI,Malawi,2015,1.063
+MYS,Malaysia,2015,1.131
+MDV,Maldives,2015,0.864
+MLI,Mali,2015,1.097
+MLT,Malta,2015,1.584
+MHL,Marshall Islands,2015,0.299
+MTQ,Martinique,2015,0.926
+MRT,Mauritania,2015,1.294
+MUS,Mauritius,2015,1.302
+MYT,Mayotte,2015,1.341
+MEX,Mexico,2015,1.096
+FSM,Micronesia (Federated States of),2015,0.384
+MID,Midway Island,2015,
+MCO,Monaco,2015,1.869
+MNG,Mongolia,2015,2.195
+MNE,Montenegro,2015,1.756
+MSR,Montserrat,2015,0.925
+MAR,Morocco,2015,1.384
+MOZ,Mozambique,2015,0.998
+MMR,Myanmar,2015,1.183
+NAM,Namibia,2015,1.366
+NRU,Nauru,2015,
+NPL,Nepal,2015,0.636
+NLD,Netherlands,2015,1.279
+ANT,Netherlands Antilles (former),2015,1.217
+NCL,New Caledonia,2015,0.789
+NZL,New Zealand,2015,0.569
+NIC,Nicaragua,2015,1.045
+NER,Niger,2015,1.044
+NGA,Nigeria,2015,1.322
+NIU,Niue,2015,
+NFK,Norfolk Island,2015,0.663
+MKD,North Macedonia,2015,1.514
+NOR,Norway,2015,1.799
+OMN,Oman,2015,1.206
+,Pacific Islands Trust Territory,2015,
+PAK,Pakistan,2015,0.486
+PLW,Palau,2015,0.925
+PSE,Palestine,2015,1.232
+PAN,Panama,2015,1.083
+PNG,Papua New Guinea,2015,0.353
+PRY,Paraguay,2015,1.651
+PER,Peru,2015,1.377
+PHL,Philippines,2015,0.985
+,Pitcairn Islands,2015,
+POL,Poland,2015,2.005
+PRT,Portugal,2015,1.501
+PRI,Puerto Rico,2015,0.981
+QAT,Qatar,2015,2.097
+KOR,Republic of Korea,2015,0.777
+MDA,Republic of Moldova,2015,1.925
+REU,RÃ©union,2015,1.163
+ROU,Romania,2015,1.764
+RUS,Russian Federation,2015,2.232
+RWA,Rwanda,2015,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2015,2.24
+KNA,Saint Kitts and Nevis,2015,0.925
+LCA,Saint Lucia,2015,1.014
+SPM,Saint Pierre and Miquelon,2015,0.159
+VCT,Saint Vincent and the Grenadines,2015,1.091
+WSM,Samoa,2015,0.877
+SMR,San Marino,2015,1.847
+STP,Sao Tome and Principe,2015,0.839
+SAU,Saudi Arabia,2015,1.943
+SEN,Senegal,2015,1.25
+SRB,Serbia,2015,1.775
+SCG,Serbia and Montenegro,2015,
+SYC,Seychelles,2015,1.256
+SLE,Sierra Leone,2015,1.204
+SGP,Singapore,2015,
+SVK,Slovakia,2015,2.128
+SVN,Slovenia,2015,2.131
+SLB,Solomon Islands,2015,1.343
+SOM,Somalia,2015,1.707
+ZAF,South Africa,2015,1.348
+SGS,South Georgia and the South Sandwich Islands,2015,0.004
+SSD,South Sudan,2015,1.178
+ESP,Spain,2015,1.471
+LKA,Sri Lanka,2015,0.989
+SDN,Sudan,2015,1.596
+,Sudan (former),2015,
+SUR,Suriname,2015,1.304
+SJM,Svalbard and Jan Mayen Islands,2015,3.307
+SWE,Sweden,2015,2.078
+CHE,Switzerland,2015,1.951
+SYR,Syrian Arab Republic,2015,1.351
+TJK,Tajikistan,2015,1.227
+THA,Thailand,2015,1.17
+TLS,Timor-Leste,2015,0.752
+TGO,Togo,2015,1.24
+TKL,Tokelau,2015,
+TON,Tonga,2015,1.049
+TTO,Trinidad and Tobago,2015,1.31
+TUN,Tunisia,2015,1.314
+TUR,Turkey,2015,0.801
+TKM,Turkmenistan,2015,1.48
+TCA,Turks and Caicos Islands,2015,1.518
+TUV,Tuvalu,2015,0.901
+UGA,Uganda,2015,1.157
+UKR,Ukraine,2015,2.034
+ARE,United Arab Emirates,2015,1.498
+,United Kingdom,2015,0.618
+TZA,United Republic of Tanzania,2015,1.32
+USA,United States of America,2015,1.508
+VIR,United States Virgin Islands,2015,0.918
+URY,Uruguay,2015,1.01
+,USSR,2015,
+UZB,Uzbekistan,2015,1.389
+VUT,Vanuatu,2015,0.845
+VEN,Venezuela (Bolivarian Republic of),2015,1.357
+VNM,Viet Nam,2015,1.29
+WAK,Wake Island,2015,0.366
+WLF,Wallis and Futuna Islands,2015,0.901
+ESH,Western Sahara,2015,1.476
+YEM,Yemen,2015,
+,Yugoslav SFR,2015,
+ZMB,Zambia,2015,1.797
+ZWE,Zimbabwe,2015,1.091
+X01,World,2015,1.419
+X06,Africa,2015,1.208
+,Eastern Africa,2015,1.353
+,Middle Africa,2015,1.095
+,Northern Africa,2015,1.097
+,Southern Africa,2015,1.439
+,Western Africa,2015,1.191
+X21,Americas,2015,1.361
+,Northern America,2015,1.33
+,Central America,2015,1.094
+,Caribbean,2015,1.234
+,South America,2015,1.435
+,Asia,2015,1.284
+,Central Asia,2015,1.552
+,Eastern Asia,2015,1.385
+,Southern Asia,2015,0.942
+,South-Eastern Asia,2015,0.984
+,Western Asia,2015,1.615
+,Europe,2015,2.106
+,Eastern Europe,2015,2.209
+,Northern Europe,2015,1.764
+,Southern Europe,2015,1.567
+,Western Europe,2015,1.649
+,Oceania,2015,0.997
+,Australia and New Zealand,2015,1.035
+,Melanesia,2015,0.447
+,Micronesia,2015,0.838
+,Polynesia,2015,0.796
+,European Union,2015,1.727
+,Least Developed Countries,2015,1.203
+,Land Locked Developing Countries,2015,1.467
+,Small Island Developing States,2015,0.974
+,Low Income Food Deficit Countries,2015,1.061
+,Net Food Importing Developing Countries,2015,1.269
+,Annex I countries,2015,1.616
+,Non-Annex I countries,2015,1.276
+,OECD,2015,1.282
+AFG,Afghanistan,2016,1.473
+ALB,Albania,2016,1.697
+DZA,Algeria,2016,1.866
+ASM,American Samoa,2016,1.648
+AND,Andorra,2016,1.917
+AGO,Angola,2016,1.534
+AIA,Anguilla,2016,0.954
+ATA,Antarctica,2016,0.217
+ATG,Antigua and Barbuda,2016,0.977
+ARG,Argentina,2016,0.459
+ARM,Armenia,2016,1.406
+ABW,Aruba,2016,1
+AUS,Australia,2016,1.142
+AUT,Austria,2016,2.083
+AZE,Azerbaijan,2016,1.494
+BHS,Bahamas,2016,1.048
+BHR,Bahrain,2016,1.72
+BGD,Bangladesh,2016,1.393
+BRB,Barbados,2016,1.41
+BLR,Belarus,2016,2.187
+BEL,Belgium,2016,1.866
+,Belgium-Luxembourg,2016,
+BLZ,Belize,2016,1.423
+BEN,Benin,2016,1.195
+BTN,Bhutan,2016,1.549
+BOL,Bolivia (Plurinational State of),2016,0.769
+BIH,Bosnia and Herzegovina,2016,1.708
+BWA,Botswana,2016,1.643
+BRA,Brazil,2016,1.607
+VGB,British Virgin Islands,2016,0.95
+BRN,Brunei Darussalam,2016,1.477
+BGR,Bulgaria,2016,1.875
+BFA,Burkina Faso,2016,1.085
+BDI,Burundi,2016,
+CPV,Cabo Verde,2016,1.54
+KHM,Cambodia,2016,1.373
+CMR,Cameroon,2016,1.236
+CAN,Canada,2016,2.345
+CYM,Cayman Islands,2016,1.048
+CAF,Central African Republic,2016,1.221
+TCD,Chad,2016,1.101
+CHA,Channel Islands,2016,1.528
+CHL,Chile,2016,0.836
+CHN,China,2016,1.321
+HKG,"China, Hong Kong SAR",2016,0.837
+MAC,"China, Macao SAR",2016,0.837
+,"China, mainland",2016,1.323
+TWN,"China, Taiwan Province of",2016,0.929
+CXR,Christmas Island,2016,1.29
+CCK,Cocos (Keeling) Islands,2016,1.034
+COL,Colombia,2016,1.08
+COM,Comoros,2016,1.329
+COG,Congo,2016,1.431
+COK,Cook Islands,2016,
+CRI,Costa Rica,2016,1.005
+CIV,CÃ´te d'Ivoire,2016,1.499
+HRV,Croatia,2016,1.832
+CUB,Cuba,2016,1.21
+CYP,Cyprus,2016,1.581
+CZE,Czechia,2016,2.079
+,Czechoslovakia,2016,
+PRK,Democratic People's Republic of Korea,2016,1.327
+COD,Democratic Republic of the Congo,2016,1.355
+DNK,Denmark,2016,1.845
+DJI,Djibouti,2016,1.483
+DMA,Dominica,2016,1.08
+DOM,Dominican Republic,2016,1.284
+ECU,Ecuador,2016,1.494
+EGY,Egypt,2016,1.289
+SLV,El Salvador,2016,1.219
+GNQ,Equatorial Guinea,2016,1.512
+ERI,Eritrea,2016,1.222
+EST,Estonia,2016,1.932
+SWZ,Eswatini,2016,1.619
+ETH,Ethiopia,2016,1.555
+,Ethiopia PDR,2016,
+FLK,Falkland Islands (Malvinas),2016,
+FRO,Faroe Islands,2016,0.743
+FJI,Fiji,2016,1.281
+FIN,Finland,2016,2.162
+FRA,France,2016,1.755
+,French Guiana,2016,1.746
+PYF,French Polynesia,2016,1.149
+,French Southern and Antarctic Territories,2016,1.016
+GAB,Gabon,2016,1.396
+GMB,Gambia,2016,1.944
+GEO,Georgia,2016,1.402
+DEU,Germany,2016,1.985
+GHA,Ghana,2016,1.272
+GIB,Gibraltar,2016,1.813
+GRC,Greece,2016,1.651
+GRL,Greenland,2016,2.372
+GRD,Grenada,2016,1.12
+GLP,Guadeloupe,2016,1.005
+GTM,Guatemala,2016,1.366
+GIN,Guinea,2016,1.336
+GNB,Guinea-Bissau,2016,2.01
+GUY,Guyana,2016,1.758
+HTI,Haiti,2016,1.266
+VAT,Holy See,2016,1.728
+HND,Honduras,2016,1.369
+HUN,Hungary,2016,1.915
+ISL,Iceland,2016,1.371
+IND,India,2016,0.977
+IDN,Indonesia,2016,1.37
+IRN,Iran (Islamic Republic of),2016,1.623
+IRQ,Iraq,2016,1.621
+IRL,Ireland,2016,1.033
+IMN,Isle of Man,2016,1.124
+ISR,Israel,2016,1.543
+ITA,Italy,2016,1.736
+JAM,Jamaica,2016,1.479
+JPN,Japan,2016,1.304
+JOR,Jordan,2016,1.686
+KAZ,Kazakhstan,2016,2.256
+KEN,Kenya,2016,1.333
+KIR,Kiribati,2016,1.627
+KWT,Kuwait,2016,1.761
+KGZ,Kyrgyzstan,2016,1.931
+LAO,Lao People's Democratic Republic,2016,1.367
+LVA,Latvia,2016,1.939
+LBN,Lebanon,2016,1.708
+LSO,Lesotho,2016,1.837
+LBR,Liberia,2016,1.479
+LBY,Libya,2016,1.631
+LIE,Liechtenstein,2016,2.003
+LTU,Lithuania,2016,1.951
+LUX,Luxembourg,2016,1.889
+MDG,Madagascar,2016,1.007
+MWI,Malawi,2016,1.502
+MYS,Malaysia,2016,1.566
+MDV,Maldives,2016,0.898
+MLI,Mali,2016,1.183
+MLT,Malta,2016,1.79
+MHL,Marshall Islands,2016,0.608
+MTQ,Martinique,2016,1.098
+MRT,Mauritania,2016,1.602
+MUS,Mauritius,2016,1.11
+MYT,Mayotte,2016,1.241
+MEX,Mexico,2016,1.288
+FSM,Micronesia (Federated States of),2016,0.764
+MID,Midway Island,2016,
+MCO,Monaco,2016,1.734
+MNG,Mongolia,2016,1.452
+MNE,Montenegro,2016,1.548
+MSR,Montserrat,2016,0.977
+MAR,Morocco,2016,2.081
+MOZ,Mozambique,2016,1.241
+MMR,Myanmar,2016,1.344
+NAM,Namibia,2016,1.658
+NRU,Nauru,2016,
+NPL,Nepal,2016,1.153
+NLD,Netherlands,2016,1.925
+ANT,Netherlands Antilles (former),2016,1.101
+NCL,New Caledonia,2016,1.494
+NZL,New Zealand,2016,1.21
+NIC,Nicaragua,2016,1.319
+NER,Niger,2016,1.192
+NGA,Nigeria,2016,1.298
+NIU,Niue,2016,
+NFK,Norfolk Island,2016,1.181
+MKD,North Macedonia,2016,1.72
+NOR,Norway,2016,1.724
+OMN,Oman,2016,0.899
+,Pacific Islands Trust Territory,2016,
+PAK,Pakistan,2016,1.113
+PLW,Palau,2016,0.987
+PSE,Palestine,2016,1.553
+PAN,Panama,2016,1.033
+PNG,Papua New Guinea,2016,1.411
+PRY,Paraguay,2016,0.38
+PER,Peru,2016,1.462
+PHL,Philippines,2016,1.453
+,Pitcairn Islands,2016,
+POL,Poland,2016,2.056
+PRT,Portugal,2016,1.771
+PRI,Puerto Rico,2016,1.054
+QAT,Qatar,2016,1.59
+KOR,Republic of Korea,2016,1.444
+MDA,Republic of Moldova,2016,2.013
+REU,RÃ©union,2016,1.029
+ROU,Romania,2016,1.838
+RUS,Russian Federation,2016,2.451
+RWA,Rwanda,2016,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2016,1.685
+KNA,Saint Kitts and Nevis,2016,0.977
+LCA,Saint Lucia,2016,1.153
+SPM,Saint Pierre and Miquelon,2016,0.943
+VCT,Saint Vincent and the Grenadines,2016,1.12
+WSM,Samoa,2016,1.407
+SMR,San Marino,2016,1.767
+STP,Sao Tome and Principe,2016,1.536
+SAU,Saudi Arabia,2016,1.602
+SEN,Senegal,2016,1.628
+SRB,Serbia,2016,1.722
+SCG,Serbia and Montenegro,2016,
+SYC,Seychelles,2016,1.201
+SLE,Sierra Leone,2016,1.179
+SGP,Singapore,2016,
+SVK,Slovakia,2016,1.957
+SVN,Slovenia,2016,2.053
+SLB,Solomon Islands,2016,1.873
+SOM,Somalia,2016,1.534
+ZAF,South Africa,2016,1.638
+SGS,South Georgia and the South Sandwich Islands,2016,-0.188
+SSD,South Sudan,2016,1.35
+ESP,Spain,2016,1.649
+LKA,Sri Lanka,2016,1.365
+SDN,Sudan,2016,1.332
+,Sudan (former),2016,
+SUR,Suriname,2016,1.762
+SJM,Svalbard and Jan Mayen Islands,2016,5.413
+SWE,Sweden,2016,1.846
+CHE,Switzerland,2016,1.835
+SYR,Syrian Arab Republic,2016,1.818
+TJK,Tajikistan,2016,1.682
+THA,Thailand,2016,1.435
+TLS,Timor-Leste,2016,1.913
+TGO,Togo,2016,1.315
+TKL,Tokelau,2016,
+TON,Tonga,2016,1.574
+TTO,Trinidad and Tobago,2016,
+TUN,Tunisia,2016,2.041
+TUR,Turkey,2016,1.572
+TKM,Turkmenistan,2016,2.071
+TCA,Turks and Caicos Islands,2016,1.33
+TUV,Tuvalu,2016,1.025
+UGA,Uganda,2016,1.261
+UKR,Ukraine,2016,2.089
+ARE,United Arab Emirates,2016,0.975
+,United Kingdom,2016,1.176
+TZA,United Republic of Tanzania,2016,1.26
+USA,United States of America,2016,2.197
+VIR,United States Virgin Islands,2016,0.946
+URY,Uruguay,2016,0.266
+,USSR,2016,
+UZB,Uzbekistan,2016,2.268
+VUT,Vanuatu,2016,1.433
+VEN,Venezuela (Bolivarian Republic of),2016,1.257
+VNM,Viet Nam,2016,1.254
+WAK,Wake Island,2016,0.158
+WLF,Wallis and Futuna Islands,2016,1.471
+ESH,Western Sahara,2016,1.649
+YEM,Yemen,2016,
+,Yugoslav SFR,2016,
+ZMB,Zambia,2016,1.351
+ZWE,Zimbabwe,2016,1.303
+X01,World,2016,1.674
+X06,Africa,2016,1.442
+,Eastern Africa,2016,1.338
+,Middle Africa,2016,1.325
+,Northern Africa,2016,1.712
+,Southern Africa,2016,1.647
+,Western Africa,2016,1.322
+X21,Americas,2016,1.755
+,Northern America,2016,2.273
+,Central America,2016,1.284
+,Caribbean,2016,1.225
+,South America,2016,1.242
+,Asia,2016,1.457
+,Central Asia,2016,2.198
+,Eastern Asia,2016,1.339
+,Southern Asia,2016,1.223
+,South-Eastern Asia,2016,1.387
+,Western Asia,2016,1.538
+,Europe,2016,2.286
+,Eastern Europe,2016,2.412
+,Northern Europe,2016,1.737
+,Southern Europe,2016,1.704
+,Western Europe,2016,1.867
+,Oceania,2016,1.163
+,Australia and New Zealand,2016,1.144
+,Melanesia,2016,1.435
+,Micronesia,2016,1.124
+,Polynesia,2016,1.299
+,European Union,2016,1.814
+,Least Developed Countries,2016,1.336
+,Land Locked Developing Countries,2016,1.482
+,Small Island Developing States,2016,1.516
+,Low Income Food Deficit Countries,2016,1.292
+,Net Food Importing Developing Countries,2016,1.374
+,Annex I countries,2016,2.098
+,Non-Annex I countries,2016,1.366
+,OECD,2016,1.85
+AFG,Afghanistan,2017,1.483
+ALB,Albania,2017,1.337
+DZA,Algeria,2017,1.63
+ASM,American Samoa,2017,1.268
+AND,Andorra,2017,1.853
+AGO,Angola,2017,0.808
+AIA,Anguilla,2017,0.788
+ATA,Antarctica,2017,0.764
+ATG,Antigua and Barbuda,2017,0.824
+ARG,Argentina,2017,1.057
+ARM,Armenia,2017,0.976
+ABW,Aruba,2017,1.143
+AUS,Australia,2017,1.117
+AUT,Austria,2017,1.73
+AZE,Azerbaijan,2017,1.347
+BHS,Bahamas,2017,1.332
+BHR,Bahrain,2017,2.188
+BGD,Bangladesh,2017,1.211
+BRB,Barbados,2017,1.069
+BLR,Belarus,2017,1.577
+BEL,Belgium,2017,1.719
+,Belgium-Luxembourg,2017,
+BLZ,Belize,2017,1.334
+BEN,Benin,2017,1.307
+BTN,Bhutan,2017,1.551
+BOL,Bolivia (Plurinational State of),2017,1.009
+BIH,Bosnia and Herzegovina,2017,1.449
+BWA,Botswana,2017,0.154
+BRA,Brazil,2017,1.498
+VGB,British Virgin Islands,2017,0.751
+BRN,Brunei Darussalam,2017,1.07
+BGR,Bulgaria,2017,0.91
+BFA,Burkina Faso,2017,1.214
+BDI,Burundi,2017,
+CPV,Cabo Verde,2017,1.842
+KHM,Cambodia,2017,1.05
+CMR,Cameroon,2017,1.21
+CAN,Canada,2017,1.451
+CYM,Cayman Islands,2017,1.021
+CAF,Central African Republic,2017,1.235
+TCD,Chad,2017,1.207
+CHA,Channel Islands,2017,1.529
+CHL,Chile,2017,0.68
+CHN,China,2017,1.579
+HKG,"China, Hong Kong SAR",2017,1.403
+MAC,"China, Macao SAR",2017,1.403
+,"China, mainland",2017,1.58
+TWN,"China, Taiwan Province of",2017,1.242
+CXR,Christmas Island,2017,0.607
+CCK,Cocos (Keeling) Islands,2017,0.43
+COL,Colombia,2017,0.787
+COM,Comoros,2017,1.579
+COG,Congo,2017,1.121
+COK,Cook Islands,2017,0.971
+CRI,Costa Rica,2017,0.802
+CIV,CÃ´te d'Ivoire,2017,1.579
+HRV,Croatia,2017,1.547
+CUB,Cuba,2017,1.341
+CYP,Cyprus,2017,0.859
+CZE,Czechia,2017,1.597
+,Czechoslovakia,2017,
+PRK,Democratic People's Republic of Korea,2017,1.522
+COD,Democratic Republic of the Congo,2017,1.106
+DNK,Denmark,2017,1.609
+DJI,Djibouti,2017,1.793
+DMA,Dominica,2017,0.849
+DOM,Dominican Republic,2017,1.112
+ECU,Ecuador,2017,1.081
+EGY,Egypt,2017,0.526
+SLV,El Salvador,2017,0.679
+GNQ,Equatorial Guinea,2017,1.308
+ERI,Eritrea,2017,1.584
+EST,Estonia,2017,1.524
+SWZ,Eswatini,2017,0.582
+ETH,Ethiopia,2017,1.516
+,Ethiopia PDR,2017,
+FLK,Falkland Islands (Malvinas),2017,
+FRO,Faroe Islands,2017,1.418
+FJI,Fiji,2017,1.312
+FIN,Finland,2017,1.499
+FRA,France,2017,1.76
+,French Guiana,2017,1.472
+PYF,French Polynesia,2017,0.905
+,French Southern and Antarctic Territories,2017,0.988
+GAB,Gabon,2017,1.26
+GMB,Gambia,2017,2.055
+GEO,Georgia,2017,0.881
+DEU,Germany,2017,1.65
+GHA,Ghana,2017,1.339
+GIB,Gibraltar,2017,2.094
+GRC,Greece,2017,0.74
+GRL,Greenland,2017,1.245
+GRD,Grenada,2017,1.092
+GLP,Guadeloupe,2017,0.816
+GTM,Guatemala,2017,1.015
+GIN,Guinea,2017,1.672
+GNB,Guinea-Bissau,2017,2.123
+GUY,Guyana,2017,1.066
+HTI,Haiti,2017,1.131
+VAT,Holy See,2017,1.426
+HND,Honduras,2017,1.003
+HUN,Hungary,2017,1.367
+ISL,Iceland,2017,1.659
+IND,India,2017,0.866
+IDN,Indonesia,2017,0.896
+IRN,Iran (Islamic Republic of),2017,1.735
+IRQ,Iraq,2017,1.574
+IRL,Ireland,2017,1.26
+IMN,Isle of Man,2017,1.388
+ISR,Israel,2017,0.655
+ITA,Italy,2017,1.623
+JAM,Jamaica,2017,1.167
+JPN,Japan,2017,0.771
+JOR,Jordan,2017,1.001
+KAZ,Kazakhstan,2017,1.779
+KEN,Kenya,2017,1.623
+KIR,Kiribati,2017,1.438
+KWT,Kuwait,2017,2.122
+KGZ,Kyrgyzstan,2017,1.503
+LAO,Lao People's Democratic Republic,2017,1.137
+LVA,Latvia,2017,1.51
+LBN,Lebanon,2017,1.067
+LSO,Lesotho,2017,0.862
+LBR,Liberia,2017,1.472
+LBY,Libya,2017,0.567
+LIE,Liechtenstein,2017,1.771
+LTU,Lithuania,2017,1.557
+LUX,Luxembourg,2017,1.668
+MDG,Madagascar,2017,1.294
+MWI,Malawi,2017,1.374
+MYS,Malaysia,2017,1.097
+MDV,Maldives,2017,0.754
+MLI,Mali,2017,1.425
+MLT,Malta,2017,1.3
+MHL,Marshall Islands,2017,0.416
+MTQ,Martinique,2017,0.867
+MRT,Mauritania,2017,1.95
+MUS,Mauritius,2017,1.296
+MYT,Mayotte,2017,1.464
+MEX,Mexico,2017,1.546
+FSM,Micronesia (Federated States of),2017,0.789
+MID,Midway Island,2017,
+MCO,Monaco,2017,1.921
+MNG,Mongolia,2017,2.567
+MNE,Montenegro,2017,1.337
+MSR,Montserrat,2017,0.824
+MAR,Morocco,2017,2.378
+MOZ,Mozambique,2017,0.805
+MMR,Myanmar,2017,1.23
+NAM,Namibia,2017,1.016
+NRU,Nauru,2017,
+NPL,Nepal,2017,1.098
+NLD,Netherlands,2017,1.722
+ANT,Netherlands Antilles (former),2017,1.105
+NCL,New Caledonia,2017,1.278
+NZL,New Zealand,2017,0.625
+NIC,Nicaragua,2017,1.004
+NER,Niger,2017,1.026
+NGA,Nigeria,2017,1.32
+NIU,Niue,2017,
+NFK,Norfolk Island,2017,0.848
+MKD,North Macedonia,2017,1.129
+NOR,Norway,2017,1.552
+OMN,Oman,2017,1.416
+,Pacific Islands Trust Territory,2017,
+PAK,Pakistan,2017,1.158
+PLW,Palau,2017,0.855
+PSE,Palestine,2017,0.655
+PAN,Panama,2017,0.884
+PNG,Papua New Guinea,2017,1.222
+PRY,Paraguay,2017,1.313
+PER,Peru,2017,1.041
+PHL,Philippines,2017,1.107
+,Pitcairn Islands,2017,
+POL,Poland,2017,1.486
+PRT,Portugal,2017,2.188
+PRI,Puerto Rico,2017,0.848
+QAT,Qatar,2017,1.962
+KOR,Republic of Korea,2017,1.256
+MDA,Republic of Moldova,2017,1.335
+REU,RÃ©union,2017,1.363
+ROU,Romania,2017,1.12
+RUS,Russian Federation,2017,2.109
+RWA,Rwanda,2017,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2017,1.408
+KNA,Saint Kitts and Nevis,2017,0.824
+LCA,Saint Lucia,2017,0.987
+SPM,Saint Pierre and Miquelon,2017,0.518
+VCT,Saint Vincent and the Grenadines,2017,1.092
+WSM,Samoa,2017,1.303
+SMR,San Marino,2017,1.669
+STP,Sao Tome and Principe,2017,1.213
+SAU,Saudi Arabia,2017,1.838
+SEN,Senegal,2017,1.818
+SRB,Serbia,2017,1.284
+SCG,Serbia and Montenegro,2017,
+SYC,Seychelles,2017,1.278
+SLE,Sierra Leone,2017,1.793
+SGP,Singapore,2017,
+SVK,Slovakia,2017,1.286
+SVN,Slovenia,2017,1.729
+SLB,Solomon Islands,2017,1.715
+SOM,Somalia,2017,2.005
+ZAF,South Africa,2017,1.125
+SGS,South Georgia and the South Sandwich Islands,2017,0.662
+SSD,South Sudan,2017,1.337
+ESP,Spain,2017,1.943
+LKA,Sri Lanka,2017,1.085
+SDN,Sudan,2017,1.385
+,Sudan (former),2017,
+SUR,Suriname,2017,1.397
+SJM,Svalbard and Jan Mayen Islands,2017,3.347
+SWE,Sweden,2017,1.59
+CHE,Switzerland,2017,1.811
+SYR,Syrian Arab Republic,2017,1.172
+TJK,Tajikistan,2017,1.318
+THA,Thailand,2017,0.997
+TLS,Timor-Leste,2017,1.215
+TGO,Togo,2017,1.392
+TKL,Tokelau,2017,
+TON,Tonga,2017,1.367
+TTO,Trinidad and Tobago,2017,
+TUN,Tunisia,2017,1.52
+TUR,Turkey,2017,0.763
+TKM,Turkmenistan,2017,1.759
+TCA,Turks and Caicos Islands,2017,1.322
+TUV,Tuvalu,2017,1.116
+UGA,Uganda,2017,1.637
+UKR,Ukraine,2017,1.414
+ARE,United Arab Emirates,2017,1.613
+,United Kingdom,2017,1.443
+TZA,United Republic of Tanzania,2017,1.626
+USA,United States of America,2017,1.408
+VIR,United States Virgin Islands,2017,0.766
+URY,Uruguay,2017,1.49
+,USSR,2017,
+UZB,Uzbekistan,2017,1.779
+VUT,Vanuatu,2017,1.312
+VEN,Venezuela (Bolivarian Republic of),2017,0.788
+VNM,Viet Nam,2017,1.211
+WAK,Wake Island,2017,0.546
+WLF,Wallis and Futuna Islands,2017,1.174
+ESH,Western Sahara,2017,2.18
+YEM,Yemen,2017,
+,Yugoslav SFR,2017,
+ZMB,Zambia,2017,0.646
+ZWE,Zimbabwe,2017,0.269
+X01,World,2017,1.44
+X06,Africa,2017,1.224
+,Eastern Africa,2017,1.304
+,Middle Africa,2017,1.097
+,Northern Africa,2017,1.212
+,Southern Africa,2017,0.874
+,Western Africa,2017,1.441
+X21,Americas,2017,1.34
+,Northern America,2017,1.426
+,Central America,2017,1.425
+,Caribbean,2017,1.224
+,South America,2017,1.232
+,Asia,2017,1.464
+,Central Asia,2017,1.746
+,Eastern Asia,2017,1.681
+,Southern Asia,2017,1.197
+,South-Eastern Asia,2017,1.03
+,Western Asia,2017,1.493
+,Europe,2017,1.959
+,Eastern Europe,2017,2.042
+,Northern Europe,2017,1.533
+,Southern Europe,2017,1.645
+,Western Europe,2017,1.721
+,Oceania,2017,1.11
+,Australia and New Zealand,2017,1.101
+,Melanesia,2017,1.255
+,Micronesia,2017,1.016
+,Polynesia,2017,1.101
+,European Union,2017,1.569
+,Least Developed Countries,2017,1.283
+,Land Locked Developing Countries,2017,1.415
+,Small Island Developing States,2017,1.263
+,Low Income Food Deficit Countries,2017,1.276
+,Net Food Importing Developing Countries,2017,1.292
+,Annex I countries,2017,1.607
+,Non-Annex I countries,2017,1.316
+,OECD,2017,1.349
+AFG,Afghanistan,2018,1.524
+ALB,Albania,2018,2.232
+DZA,Algeria,2018,1.326
+ASM,American Samoa,2018,1.101
+AND,Andorra,2018,1.826
+AGO,Angola,2018,1.264
+AIA,Anguilla,2018,0.607
+ATA,Antarctica,2018,1.454
+ATG,Antigua and Barbuda,2018,0.61
+ARG,Argentina,2018,0.828
+ARM,Armenia,2018,2.853
+ABW,Aruba,2018,0.895
+AUS,Australia,2018,1.112
+AUT,Austria,2018,2.511
+AZE,Azerbaijan,2018,2.281
+BHS,Bahamas,2018,1.017
+BHR,Bahrain,2018,2.359
+BGD,Bangladesh,2018,0.993
+BRB,Barbados,2018,0.802
+BLR,Belarus,2018,2.32
+BEL,Belgium,2018,2.201
+,Belgium-Luxembourg,2018,
+BLZ,Belize,2018,0.895
+BEN,Benin,2018,1.164
+BTN,Bhutan,2018,1.582
+BOL,Bolivia (Plurinational State of),2018,0.578
+BIH,Bosnia and Herzegovina,2018,2.308
+BWA,Botswana,2018,0.78
+BRA,Brazil,2018,1.284
+VGB,British Virgin Islands,2018,0.603
+BRN,Brunei Darussalam,2018,0.969
+BGR,Bulgaria,2018,2.183
+BFA,Burkina Faso,2018,1.149
+BDI,Burundi,2018,
+CPV,Cabo Verde,2018,0.844
+KHM,Cambodia,2018,0.725
+CMR,Cameroon,2018,1.091
+CAN,Canada,2018,0.502
+CYM,Cayman Islands,2018,0.663
+CAF,Central African Republic,2018,1.188
+TCD,Chad,2018,1.496
+CHA,Channel Islands,2018,1.494
+CHL,Chile,2018,0.332
+CHN,China,2018,1.389
+HKG,"China, Hong Kong SAR",2018,1.229
+MAC,"China, Macao SAR",2018,1.229
+,"China, mainland",2018,1.39
+TWN,"China, Taiwan Province of",2018,1.028
+CXR,Christmas Island,2018,0.222
+CCK,Cocos (Keeling) Islands,2018,0.526
+COL,Colombia,2018,1.096
+COM,Comoros,2018,1.333
+COG,Congo,2018,1.226
+COK,Cook Islands,2018,0.48
+CRI,Costa Rica,2018,1.049
+CIV,CÃ´te d'Ivoire,2018,1.139
+HRV,Croatia,2018,2.301
+CUB,Cuba,2018,1.154
+CYP,Cyprus,2018,2.185
+CZE,Czechia,2018,2.659
+,Czechoslovakia,2018,
+PRK,Democratic People's Republic of Korea,2018,0.812
+COD,Democratic Republic of the Congo,2018,1.283
+DNK,Denmark,2018,2.091
+DJI,Djibouti,2018,0.842
+DMA,Dominica,2018,0.594
+DOM,Dominican Republic,2018,1.161
+ECU,Ecuador,2018,0.936
+EGY,Egypt,2018,1.981
+SLV,El Salvador,2018,0.825
+GNQ,Equatorial Guinea,2018,0.854
+ERI,Eritrea,2018,1.148
+EST,Estonia,2018,2.442
+SWZ,Eswatini,2018,0.973
+ETH,Ethiopia,2018,0.902
+,Ethiopia PDR,2018,
+FLK,Falkland Islands (Malvinas),2018,
+FRO,Faroe Islands,2018,0.748
+FJI,Fiji,2018,1.126
+FIN,Finland,2018,2.166
+FRA,France,2018,2.025
+,French Guiana,2018,1.213
+PYF,French Polynesia,2018,0.632
+,French Southern and Antarctic Territories,2018,0.916
+GAB,Gabon,2018,0.926
+GMB,Gambia,2018,1.329
+GEO,Georgia,2018,2.539
+DEU,Germany,2018,2.393
+GHA,Ghana,2018,1.101
+GIB,Gibraltar,2018,0.725
+GRC,Greece,2018,1.996
+GRL,Greenland,2018,0.933
+GRD,Grenada,2018,0.735
+GLP,Guadeloupe,2018,0.602
+GTM,Guatemala,2018,0.93
+GIN,Guinea,2018,1.281
+GNB,Guinea-Bissau,2018,1.565
+GUY,Guyana,2018,0.84
+HTI,Haiti,2018,1.291
+VAT,Holy See,2018,1.881
+HND,Honduras,2018,0.958
+HUN,Hungary,2018,2.568
+ISL,Iceland,2018,0.784
+IND,India,2018,0.769
+IDN,Indonesia,2018,0.808
+IRN,Iran (Islamic Republic of),2018,2.085
+IRQ,Iraq,2018,2.511
+IRL,Ireland,2018,0.77
+IMN,Isle of Man,2018,0.885
+ISR,Israel,2018,1.89
+ITA,Italy,2018,1.843
+JAM,Jamaica,2018,1.288
+JPN,Japan,2018,0.894
+JOR,Jordan,2018,1.994
+KAZ,Kazakhstan,2018,0.653
+KEN,Kenya,2018,0.746
+KIR,Kiribati,2018,1.325
+KWT,Kuwait,2018,2.549
+KGZ,Kyrgyzstan,2018,1.32
+LAO,Lao People's Democratic Republic,2018,0.812
+LVA,Latvia,2018,2.359
+LBN,Lebanon,2018,2.136
+LSO,Lesotho,2018,0.771
+LBR,Liberia,2018,1.159
+LBY,Libya,2018,1.794
+LIE,Liechtenstein,2018,2.24
+LTU,Lithuania,2018,2.436
+LUX,Luxembourg,2018,2.494
+MDG,Madagascar,2018,0.958
+MWI,Malawi,2018,1.433
+MYS,Malaysia,2018,1.09
+MDV,Maldives,2018,0.725
+MLI,Mali,2018,1.088
+MLT,Malta,2018,1.502
+MHL,Marshall Islands,2018,0.203
+MTQ,Martinique,2018,0.612
+MRT,Mauritania,2018,0.996
+MUS,Mauritius,2018,0.957
+MYT,Mayotte,2018,1.25
+MEX,Mexico,2018,1.152
+FSM,Micronesia (Federated States of),2018,0.579
+MID,Midway Island,2018,
+MCO,Monaco,2018,1.951
+MNG,Mongolia,2018,2.306
+MNE,Montenegro,2018,2.295
+MSR,Montserrat,2018,0.61
+MAR,Morocco,2018,0.775
+MOZ,Mozambique,2018,0.749
+MMR,Myanmar,2018,0.93
+NAM,Namibia,2018,1.61
+NRU,Nauru,2018,
+NPL,Nepal,2018,0.642
+NLD,Netherlands,2018,2.134
+ANT,Netherlands Antilles (former),2018,0.739
+NCL,New Caledonia,2018,0.921
+NZL,New Zealand,2018,1.163
+NIC,Nicaragua,2018,0.998
+NER,Niger,2018,1.239
+NGA,Nigeria,2018,1.198
+NIU,Niue,2018,
+NFK,Norfolk Island,2018,0.831
+MKD,North Macedonia,2018,2.135
+NOR,Norway,2018,1.484
+OMN,Oman,2018,1.108
+,Pacific Islands Trust Territory,2018,
+PAK,Pakistan,2018,1.279
+PLW,Palau,2018,0.925
+PSE,Palestine,2018,1.891
+PAN,Panama,2018,1.229
+PNG,Papua New Guinea,2018,0.789
+PRY,Paraguay,2018,0.704
+PER,Peru,2018,0.795
+PHL,Philippines,2018,1.127
+,Pitcairn Islands,2018,
+POL,Poland,2018,2.437
+PRT,Portugal,2018,0.928
+PRI,Puerto Rico,2018,0.709
+QAT,Qatar,2018,2.089
+KOR,Republic of Korea,2018,0.737
+MDA,Republic of Moldova,2018,2.017
+REU,RÃ©union,2018,1.235
+ROU,Romania,2018,2.281
+RUS,Russian Federation,2018,2.039
+RWA,Rwanda,2018,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2018,1.647
+KNA,Saint Kitts and Nevis,2018,0.61
+LCA,Saint Lucia,2018,0.69
+SPM,Saint Pierre and Miquelon,2018,0.885
+VCT,Saint Vincent and the Grenadines,2018,0.735
+WSM,Samoa,2018,1.057
+SMR,San Marino,2018,1.87
+STP,Sao Tome and Principe,2018,0.88
+SAU,Saudi Arabia,2018,1.84
+SEN,Senegal,2018,1.045
+SRB,Serbia,2018,2.35
+SCG,Serbia and Montenegro,2018,
+SYC,Seychelles,2018,1.005
+SLE,Sierra Leone,2018,1.308
+SGP,Singapore,2018,
+SVK,Slovakia,2018,2.578
+SVN,Slovenia,2018,2.413
+SLB,Solomon Islands,2018,1.353
+SOM,Somalia,2018,1.175
+ZAF,South Africa,2018,1.047
+SGS,South Georgia and the South Sandwich Islands,2018,0.704
+SSD,South Sudan,2018,1.185
+ESP,Spain,2018,1.034
+LKA,Sri Lanka,2018,0.824
+SDN,Sudan,2018,1.363
+,Sudan (former),2018,
+SUR,Suriname,2018,1.221
+SJM,Svalbard and Jan Mayen Islands,2018,4.104
+SWE,Sweden,2018,1.843
+CHE,Switzerland,2018,2.317
+SYR,Syrian Arab Republic,2018,2.381
+TJK,Tajikistan,2018,1.728
+THA,Thailand,2018,0.769
+TLS,Timor-Leste,2018,0.913
+TGO,Togo,2018,1.237
+TKL,Tokelau,2018,
+TON,Tonga,2018,1.309
+TTO,Trinidad and Tobago,2018,0.891
+TUN,Tunisia,2018,1.672
+TUR,Turkey,2018,2.633
+TKM,Turkmenistan,2018,1.598
+TCA,Turks and Caicos Islands,2018,
+TUV,Tuvalu,2018,1.069
+UGA,Uganda,2018,0.965
+UKR,Ukraine,2018,2.243
+ARE,United Arab Emirates,2018,1.489
+,United Kingdom,2018,1.013
+TZA,United Republic of Tanzania,2018,1.3
+USA,United States of America,2018,1.244
+VIR,United States Virgin Islands,2018,0.61
+URY,Uruguay,2018,1.132
+,USSR,2018,
+UZB,Uzbekistan,2018,1.031
+VUT,Vanuatu,2018,0.73
+VEN,Venezuela (Bolivarian Republic of),2018,0.864
+VNM,Viet Nam,2018,0.904
+WAK,Wake Island,2018,0.352
+WLF,Wallis and Futuna Islands,2018,0.998
+ESH,Western Sahara,2018,0.842
+YEM,Yemen,2018,
+,Yugoslav SFR,2018,
+ZMB,Zambia,2018,1.153
+ZWE,Zimbabwe,2018,0.496
+X01,World,2018,1.301
+X06,Africa,2018,1.222
+,Eastern Africa,2018,0.983
+,Middle Africa,2018,1.279
+,Northern Africa,2018,1.519
+,Southern Africa,2018,1.159
+,Western Africa,2018,1.142
+X21,Americas,2018,0.96
+,Northern America,2018,0.873
+,Central America,2018,1.121
+,Caribbean,2018,1.13
+,South America,2018,1.034
+,Asia,2018,1.343
+,Central Asia,2018,0.882
+,Eastern Asia,2018,1.483
+,Southern Asia,2018,1.241
+,South-Eastern Asia,2018,0.868
+,Western Asia,2018,2.05
+,Europe,2018,2.009
+,Eastern Europe,2018,2.066
+,Northern Europe,2018,1.651
+,Southern Europe,2018,1.6
+,Western Europe,2018,2.202
+,Oceania,2018,1.096
+,Australia and New Zealand,2018,1.114
+,Melanesia,2018,0.834
+,Micronesia,2018,0.903
+,Polynesia,2018,0.856
+,European Union,2018,1.933
+,Least Developed Countries,2018,1.157
+,Land Locked Developing Countries,2018,1.148
+,Small Island Developing States,2018,0.967
+,Low Income Food Deficit Countries,2018,1.094
+,Net Food Importing Developing Countries,2018,1.222
+,Annex I countries,2018,1.397
+,Non-Annex I countries,2018,1.234
+,OECD,2018,1.088
+AFG,Afghanistan,2019,0.893
+ALB,Albania,2019,1.911
+DZA,Algeria,2019,1.224
+ASM,American Samoa,2019,1.502
+AND,Andorra,2019,1.871
+AGO,Angola,2019,1.694
+AIA,Anguilla,2019,0.843
+ATA,Antarctica,2019,0.615
+ATG,Antigua and Barbuda,2019,0.827
+ARG,Argentina,2019,0.709
+ARM,Armenia,2019,1.864
+ABW,Aruba,2019,1.216
+AUS,Australia,2019,1.423
+AUT,Austria,2019,2.365
+AZE,Azerbaijan,2019,2.025
+BHS,Bahamas,2019,1.434
+BHR,Bahrain,2019,2.238
+BGD,Bangladesh,2019,1.211
+BRB,Barbados,2019,1.286
+BLR,Belarus,2019,2.657
+BEL,Belgium,2019,2.075
+,Belgium-Luxembourg,2019,
+BLZ,Belize,2019,1.616
+BEN,Benin,2019,1.246
+BTN,Bhutan,2019,1.49
+BOL,Bolivia (Plurinational State of),2019,0.994
+BIH,Bosnia and Herzegovina,2019,2.06
+BWA,Botswana,2019,1.688
+BRA,Brazil,2019,1.672
+VGB,British Virgin Islands,2019,0.855
+BRN,Brunei Darussalam,2019,1.257
+BGR,Bulgaria,2019,2.122
+BFA,Burkina Faso,2019,1.075
+BDI,Burundi,2019,
+CPV,Cabo Verde,2019,1.362
+KHM,Cambodia,2019,1.421
+CMR,Cameroon,2019,1.616
+CAN,Canada,2019,1.315
+CYM,Cayman Islands,2019,1.001
+CAF,Central African Republic,2019,1.462
+TCD,Chad,2019,1.499
+CHA,Channel Islands,2019,1.613
+CHL,Chile,2019,0.46
+CHN,China,2019,1.423
+HKG,"China, Hong Kong SAR",2019,1.831
+MAC,"China, Macao SAR",2019,1.831
+,"China, mainland",2019,1.424
+TWN,"China, Taiwan Province of",2019,1.227
+CXR,Christmas Island,2019,0.61
+CCK,Cocos (Keeling) Islands,2019,0.647
+COL,Colombia,2019,1.353
+COM,Comoros,2019,1.925
+COG,Congo,2019,1.443
+COK,Cook Islands,2019,0.514
+CRI,Costa Rica,2019,1.279
+CIV,CÃ´te d'Ivoire,2019,1.082
+HRV,Croatia,2019,2.143
+CUB,Cuba,2019,1.591
+CYP,Cyprus,2019,1.566
+CZE,Czechia,2019,2.552
+,Czechoslovakia,2019,
+PRK,Democratic People's Republic of Korea,2019,1.802
+COD,Democratic Republic of the Congo,2019,1.313
+DNK,Denmark,2019,2.163
+DJI,Djibouti,2019,1.385
+DMA,Dominica,2019,0.719
+DOM,Dominican Republic,2019,1.413
+ECU,Ecuador,2019,1.308
+EGY,Egypt,2019,0.949
+SLV,El Salvador,2019,1.052
+GNQ,Equatorial Guinea,2019,1.603
+ERI,Eritrea,2019,0.964
+EST,Estonia,2019,2.213
+SWZ,Eswatini,2019,1.457
+ETH,Ethiopia,2019,1.346
+,Ethiopia PDR,2019,
+FLK,Falkland Islands (Malvinas),2019,
+FRO,Faroe Islands,2019,0.79
+FJI,Fiji,2019,1.194
+FIN,Finland,2019,1.465
+FRA,France,2019,1.983
+,French Guiana,2019,1.53
+PYF,French Polynesia,2019,0.858
+,French Southern and Antarctic Territories,2019,0.796
+GAB,Gabon,2019,1.586
+GMB,Gambia,2019,1.656
+GEO,Georgia,2019,1.809
+DEU,Germany,2019,2.331
+GHA,Ghana,2019,1.271
+GIB,Gibraltar,2019,1.216
+GRC,Greece,2019,1.491
+GRL,Greenland,2019,1.917
+GRD,Grenada,2019,0.969
+GLP,Guadeloupe,2019,0.793
+GTM,Guatemala,2019,1.496
+GIN,Guinea,2019,1.544
+GNB,Guinea-Bissau,2019,1.884
+GUY,Guyana,2019,0.858
+HTI,Haiti,2019,1.505
+VAT,Holy See,2019,1.591
+HND,Honduras,2019,1.428
+HUN,Hungary,2019,2.406
+ISL,Iceland,2019,1.262
+IND,India,2019,0.685
+IDN,Indonesia,2019,0.912
+IRN,Iran (Islamic Republic of),2019,1.617
+IRQ,Iraq,2019,1.74
+IRL,Ireland,2019,1.199
+IMN,Isle of Man,2019,1.198
+ISR,Israel,2019,1.066
+ITA,Italy,2019,1.679
+JAM,Jamaica,2019,1.285
+JPN,Japan,2019,1.227
+JOR,Jordan,2019,1.296
+KAZ,Kazakhstan,2019,1.469
+KEN,Kenya,2019,1.74
+KIR,Kiribati,2019,1.347
+KWT,Kuwait,2019,2.067
+KGZ,Kyrgyzstan,2019,1.683
+LAO,Lao People's Democratic Republic,2019,2.116
+LVA,Latvia,2019,2.448
+LBN,Lebanon,2019,1.363
+LSO,Lesotho,2019,1.603
+LBR,Liberia,2019,1.351
+LBY,Libya,2019,1.011
+LIE,Liechtenstein,2019,2.059
+LTU,Lithuania,2019,2.627
+LUX,Luxembourg,2019,2.177
+MDG,Madagascar,2019,1.552
+MWI,Malawi,2019,1.729
+MYS,Malaysia,2019,1.343
+MDV,Maldives,2019,0.955
+MLI,Mali,2019,1.136
+MLT,Malta,2019,1.112
+MHL,Marshall Islands,2019,0.42
+MTQ,Martinique,2019,0.76
+MRT,Mauritania,2019,1.417
+MUS,Mauritius,2019,1.438
+MYT,Mayotte,2019,1.809
+MEX,Mexico,2019,1.286
+FSM,Micronesia (Federated States of),2019,0.524
+MID,Midway Island,2019,
+MCO,Monaco,2019,1.962
+MNG,Mongolia,2019,1.918
+MNE,Montenegro,2019,1.913
+MSR,Montserrat,2019,0.827
+MAR,Morocco,2019,1.728
+MOZ,Mozambique,2019,1.178
+MMR,Myanmar,2019,1.552
+NAM,Namibia,2019,2.252
+NRU,Nauru,2019,
+NPL,Nepal,2019,0.6
+NLD,Netherlands,2019,2.142
+ANT,Netherlands Antilles (former),2019,0.985
+NCL,New Caledonia,2019,0.851
+NZL,New Zealand,2019,1.12
+NIC,Nicaragua,2019,1.287
+NER,Niger,2019,1.13
+NGA,Nigeria,2019,1.373
+NIU,Niue,2019,
+NFK,Norfolk Island,2019,0.798
+MKD,North Macedonia,2019,1.911
+NOR,Norway,2019,1.203
+OMN,Oman,2019,0.803
+,Pacific Islands Trust Territory,2019,
+PAK,Pakistan,2019,0.473
+PLW,Palau,2019,
+PSE,Palestine,2019,1.055
+PAN,Panama,2019,1.424
+PNG,Papua New Guinea,2019,0.673
+PRY,Paraguay,2019,1.464
+PER,Peru,2019,1.097
+PHL,Philippines,2019,1.214
+,Pitcairn Islands,2019,
+POL,Poland,2019,2.662
+PRT,Portugal,2019,1.321
+PRI,Puerto Rico,2019,0.934
+QAT,Qatar,2019,1.93
+KOR,Republic of Korea,2019,1.268
+MDA,Republic of Moldova,2019,2.348
+REU,RÃ©union,2019,1.674
+ROU,Romania,2019,2.233
+RUS,Russian Federation,2019,2.2
+RWA,Rwanda,2019,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",2019,1.683
+KNA,Saint Kitts and Nevis,2019,0.827
+LCA,Saint Lucia,2019,0.922
+SPM,Saint Pierre and Miquelon,2019,0.275
+VCT,Saint Vincent and the Grenadines,2019,0.969
+WSM,Samoa,2019,1.407
+SMR,San Marino,2019,1.68
+STP,Sao Tome and Principe,2019,1.272
+SAU,Saudi Arabia,2019,1.701
+SEN,Senegal,2019,1.52
+SRB,Serbia,2019,2.123
+SCG,Serbia and Montenegro,2019,
+SYC,Seychelles,2019,1.485
+SLE,Sierra Leone,2019,1.701
+SGP,Singapore,2019,
+SVK,Slovakia,2019,2.458
+SVN,Slovenia,2019,2.375
+SLB,Solomon Islands,2019,1.301
+SOM,Somalia,2019,2.115
+ZAF,South Africa,2019,1.8
+SGS,South Georgia and the South Sandwich Islands,2019,0.082
+SSD,South Sudan,2019,1.01
+ESP,Spain,2019,1.398
+LKA,Sri Lanka,2019,1.274
+SDN,Sudan,2019,1.018
+,Sudan (former),2019,
+SUR,Suriname,2019,1.494
+SJM,Svalbard and Jan Mayen Islands,2019,2.903
+SWE,Sweden,2019,1.567
+CHE,Switzerland,2019,2.075
+SYR,Syrian Arab Republic,2019,1.544
+TJK,Tajikistan,2019,1.381
+THA,Thailand,2019,1.682
+TLS,Timor-Leste,2019,1.221
+TGO,Togo,2019,1.377
+TKL,Tokelau,2019,
+TON,Tonga,2019,1.904
+TTO,Trinidad and Tobago,2019,1.387
+TUN,Tunisia,2019,1.48
+TUR,Turkey,2019,1.701
+TKM,Turkmenistan,2019,1.886
+TCA,Turks and Caicos Islands,2019,1.619
+TUV,Tuvalu,2019,1.179
+UGA,Uganda,2019,1.483
+UKR,Ukraine,2019,2.368
+ARE,United Arab Emirates,2019,1.151
+,United Kingdom,2019,1.257
+TZA,United Republic of Tanzania,2019,1.68
+USA,United States of America,2019,1.011
+VIR,United States Virgin Islands,2019,0.865
+URY,Uruguay,2019,0.72
+,USSR,2019,
+UZB,Uzbekistan,2019,1.929
+VUT,Vanuatu,2019,1.056
+VEN,Venezuela (Bolivarian Republic of),2019,1.194
+VNM,Viet Nam,2019,1.841
+WAK,Wake Island,2019,
+WLF,Wallis and Futuna Islands,2019,1.245
+ESH,Western Sahara,2019,1.56
+YEM,Yemen,2019,
+,Yugoslav SFR,2019,
+ZMB,Zambia,2019,1.456
+ZWE,Zimbabwe,2019,1.157
+X01,World,2019,1.473
+X06,Africa,2019,1.415
+,Eastern Africa,2019,1.515
+,Middle Africa,2019,1.476
+,Northern Africa,2019,1.175
+,Southern Africa,2019,1.911
+,Western Africa,2019,1.266
+X21,Americas,2019,1.246
+,Northern America,2019,1.179
+,Central America,2019,1.307
+,Caribbean,2019,1.467
+,South America,2019,1.31
+,Asia,2019,1.369
+,Central Asia,2019,1.579
+,Eastern Asia,2019,1.485
+,Southern Asia,2019,0.936
+,South-Eastern Asia,2019,1.301
+,Western Asia,2019,1.619
+,Europe,2019,2.116
+,Eastern Europe,2019,2.221
+,Northern Europe,2019,1.462
+,Southern Europe,2019,1.627
+,Western Europe,2019,2.137
+,Oceania,2019,1.37
+,Australia and New Zealand,2019,1.413
+,Melanesia,2019,0.739
+,Micronesia,2019,0.907
+,Polynesia,2019,1.157
+,European Union,2019,1.884
+,Least Developed Countries,2019,1.405
+,Land Locked Developing Countries,2019,1.429
+,Small Island Developing States,2019,1.06
+,Low Income Food Deficit Countries,2019,1.244
+,Net Food Importing Developing Countries,2019,1.412
+,Annex I countries,2019,1.627
+,Non-Annex I countries,2019,1.361
+,OECD,2019,1.297
