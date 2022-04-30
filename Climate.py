@@ -97,7 +97,7 @@ elif selected == 'Carbon dioide emission boxplot':
     fig.show()
     
 elif selected == 'Carbon dioxide emission worldwide':
-    data2= pd.read_csv("C:/Users/AVISHEK/Documents/CO2_Emissions.csv")
+    data2= pd.read_csv("CO2_Emissions.csv")
     data2.reset_index(level=0, inplace=True)
     data3=data2.melt(id_vars=['Country Name'], var_name='Year').sort_values(by=['Year'])
     fig = px.choropleth(data_frame=data3[data3['Country Name']!='World'], locationmode='country names',locations='Country Name', color='value', animation_frame='Year', title='Carbon dioxide Emission by Countries by Year',color_continuous_scale=px.colors.sequential.RdBu_r, range_color=(200, 0))
